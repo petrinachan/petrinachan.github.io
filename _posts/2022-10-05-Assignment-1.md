@@ -2,8 +2,8 @@
 layout: post
 title: "Assignment 1"
 author: "Petrina Chan"
-categories: sample
-tags: [sample]
+categories: assignements
+tags: [assignements]
 image: arctic-1.jpg
 ---
 
