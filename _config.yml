@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "HCDE 533"
+title:		           "Petrina Chan - HCDE 533"
 description:	       "Documentation for class projects"
 author:              "Petrina Chan"
 
