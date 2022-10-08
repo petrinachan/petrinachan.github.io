@@ -13,9 +13,9 @@ image: arctic-1.jpg
 
 [Rhino file (single pieces, 2D)](assets/other/assignment 1.3dm)
 
-Rhino file (3D model)
+[Rhino file (3D model)](assets/other/assignment 1 3d.3dm)
 
-Illustrator file (1 print page)
+[Illustrator file (1 cutting page)](assets/other/assignment 1.AI)
 
 ## Process
 
