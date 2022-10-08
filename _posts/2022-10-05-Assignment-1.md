@@ -11,7 +11,7 @@ image: arctic-1.jpg
 
 ## Files
 
-Rhino file (single pieces, 2D)
+[Rhino file (single pieces, 2D)](assets/other/assignment 1.3dm)
 
 Rhino file (3D model)
 
