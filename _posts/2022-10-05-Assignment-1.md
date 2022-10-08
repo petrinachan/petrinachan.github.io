@@ -4,7 +4,7 @@ title: "Assignment 1"
 author: "Petrina Chan"
 categories: assignments
 tags: [assignments]
-image: arctic-1.jpg
+image: assignment1.jpg
 ---
 
 # Assignment 1 - Laser Cut Press Fit Construction Kit
@@ -85,3 +85,5 @@ In Illustrator, I laid out the pieces on a canvas that was the same dimensions a
 Final laser cut pieces to come soon!
 
 Credits:
+
+Jessica Douma for helpful post in Discord about exporting from Rhino to AI
