@@ -12,7 +12,9 @@ image: arctic-1.jpg
 ## Files
 
 Rhino file (single pieces, 2D)
+
 Rhino file (3D model)
+
 Illustrator file (1 print page)
 
 ## Process
@@ -67,5 +69,7 @@ Next, I exported the file to Adobe Illustrator. Since the laser cutter is in inc
 In Illustrator, I laid out the pieces on a canvas that was the same dimensions as the cardboard pieces I will be cutting on (6” x 12”). I also double checked that the dimensions remained consistent after exporting. Since 10 of each piece fits on each panel, I will cut 3 panels resulting in 30 of each piece.  
 
 [image]
+
+Final laser cut pieces to come soon!
 
 Credits:
