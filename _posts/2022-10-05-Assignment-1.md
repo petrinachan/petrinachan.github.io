@@ -31,7 +31,8 @@ Before I did any detailed measuring or model, I made a sketch and a very crude p
 
 Since it seemed like the pieces would fit together and the shapes would make sense, I made a more detailed sketch with generic units to be filled in after I take measurements. 
 
-[image]
+<img width="734" alt="digitalsketch" src="https://user-images.githubusercontent.com/115116582/194729055-c599a328-b60f-4e51-9ca5-09a3ad0a6a8c.png">
+
 
 Then, I found some cardboard boxes in the recycling to use for cutting. 
 
