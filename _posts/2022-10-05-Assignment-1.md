@@ -27,7 +27,8 @@ I decided to have my kit consist of 2 different parts: waves and fish. These pie
 
 Before I did any detailed measuring or model, I made a sketch and a very crude paper prototype of my shapes to check to see if what I was thinking of would work out.
 
-[image]
+![crudeprotosketch](https://user-images.githubusercontent.com/115116582/194729739-4a737cd9-a6ed-4ee6-afbe-b653a5878b48.jpg)
+
 
 Since it seemed like the pieces would fit together and the shapes would make sense, I made a more detailed sketch with generic units to be filled in after I take measurements. 
 
