@@ -104,7 +104,9 @@ Freq: 10
 
 I cut 3 6"x12" cardboard panels to get all of my pieces. To test my kit, I built a structure similar to the one I modeled earlier. It was actually sturdier than I expected! I could even have a piece hanging on the bottom of another piece without support
 
-![finished](https://user-images.githubusercontent.com/115116582/195202694-4fc17db0-e0c9-4c21-83cd-ef6aa7d30d74.jpg)
+![finished1](https://user-images.githubusercontent.com/115116582/195203361-179f5ba8-59d7-4e59-99e1-071f8e246a90.jpg)
+
+![finished](https://user-images.githubusercontent.com/115116582/195203375-b0cf9db8-a5f3-4409-bb39-2c007682a3c7.jpg)
 
 Credits:
 
