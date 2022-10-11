@@ -19,6 +19,8 @@ image: assignment-1.jpg
 
 ## Process
 
+### Preparation:
+
 When I was thinking about what I wanted to make for my press kit, I remembered this toy that I played with as a kid:
 
 ![ello](https://user-images.githubusercontent.com/115116582/194729941-c5b02011-d456-4fb8-a7fe-fc0b5f491a8e.jpg)
@@ -69,6 +71,8 @@ Before getting started in Rhino, I updated the sketch with the proposed dimensio
 7. Place rectangles in appropriate spots 
 8. Slice, trim, and join to cut out the slots from the wave
 9. Fillet the outer corners of the slots
+
+### Rendering & Exporting:
 
 Before finalizing and exporting these curves, I wanted to render the pieces in 3D to see how they would fit together and mockup how the press kit could look like. I extruded the pieces to 2.4mm and built a structure with them. 
 
