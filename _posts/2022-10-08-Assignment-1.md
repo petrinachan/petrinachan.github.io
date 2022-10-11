@@ -4,7 +4,7 @@ title: "Assignment 1"
 author: "Petrina Chan"
 categories: assignments
 tags: [assignments]
-image: assignment1.jpg
+image: assignment-1.jpg
 ---
 
 # Assignment 1 - Laser Cut Press Fit Construction Kit
