@@ -82,7 +82,8 @@ In Illustrator, I laid out the pieces on a canvas that was the same dimensions a
 
 <img width="784" alt="illustratorpieces" src="https://user-images.githubusercontent.com/115116582/194730260-cc770bfc-a840-4449-b1a6-aa7da84804fb.png">
 
-Final laser cut pieces to come soon!
+### Laser Cutting:
+
 
 Credits:
 
