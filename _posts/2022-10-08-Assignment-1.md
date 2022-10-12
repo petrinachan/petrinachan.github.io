@@ -45,8 +45,6 @@ I measured the thickness of the cardboard with the calipers (2.4mm). I also test
 
 Before getting started in Rhino, I updated the sketch with the proposed dimensions 
 
-[image]
-
 ### Making the fish in Rhino: 
 
 <img width="359" alt="fish1" src="https://user-images.githubusercontent.com/115116582/194730202-7dd69e58-6749-4015-a0f6-f8110b140ff7.png">
