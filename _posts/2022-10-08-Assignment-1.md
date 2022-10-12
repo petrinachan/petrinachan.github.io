@@ -100,7 +100,11 @@ Freq: 10
 
 ![cutting](https://user-images.githubusercontent.com/115116582/195202155-f5992335-3c13-41de-bd79-7ee08800fcb3.jpg)
 
-I cut 3 6"x12" cardboard panels to get all of my pieces. To test my kit, I built a structure similar to the one I modeled earlier. It was actually sturdier than I expected! I could even have a piece hanging on the bottom of another piece without support
+I cut 3 6"x12" cardboard panels to get all of my pieces. 
+
+![finished-pieces](https://user-images.githubusercontent.com/115116582/195443354-d40fdd22-fa11-4015-a8a5-a711071423ff.jpg)
+
+To test my kit, I built a structure similar to the one I modeled earlier. It was actually sturdier than I expected! I could even have a piece hanging on the bottom of another piece without support
 
 ![finished1](https://user-images.githubusercontent.com/115116582/195203361-179f5ba8-59d7-4e59-99e1-071f8e246a90.jpg)
 
