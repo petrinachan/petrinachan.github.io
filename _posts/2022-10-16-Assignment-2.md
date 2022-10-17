@@ -17,7 +17,6 @@ image: assignment-2.jpg
 
 [Illustrator file](assets/other/A2/A2ToPrint.AI)
 
-[Test File](assets/other/A2/TestFile.3dm)
 
 ## Learning
 I’ll be honest – I left last week’s lecture feeling very lost and quite nervous about the material that we covered. Things that are very numbers and logic oriented are very difficult for me to wrap my head around, and using Grasshopper is no different. 
