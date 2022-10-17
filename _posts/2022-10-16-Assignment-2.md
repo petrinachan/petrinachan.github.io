@@ -7,90 +7,85 @@ tags: [assignments]
 image: assignment-2.jpg
 ---
 
-# Assignment 1 - Laser Cut Press Fit Construction Kit
+# Assignment 2 - Parametric Modelling with Grasshopper
 
 ## Files
 
-[Rhino file (single pieces, 2D)](assets/other/assignment 1.3dm)
+[Rhino file (single pieces, 2D)](assets/other/A2/PiecesForPrint.3dm)
 
-[Rhino file (3D model)](assets/other/assignment 1 3d.3dm)
+[Rhino file (3D model)](assets/other/A2/3dModel.3dm)
 
-[Illustrator file (1 cutting page)](assets/other/assignment 1.AI)
+[Illustrator file](assets/other/A2/A2ToPrint.AI)
 
-## Process
+[Test File](assets/other/A2/TestFile.3dm)
 
-### Preparation:
-
-When I was thinking about what I wanted to make for my press kit, I remembered this toy that I played with as a kid:
-
-![ello](https://user-images.githubusercontent.com/115116582/194729941-c5b02011-d456-4fb8-a7fe-fc0b5f491a8e.jpg)
-
-It was a builder kit with different ocean themed components that you could arrange in many different ways. I took inspiration from this kit for my assignment.
-
-I decided to have my kit consist of 2 different parts: waves and fish. These pieces would be able to be fit together in a variety of ways to make different structures and scenes.
-
-Before I did any detailed measuring or model, I made a sketch and a very crude paper prototype of my shapes to check to see if what I was thinking of would work out.
-
-![crudeprotosketch](https://user-images.githubusercontent.com/115116582/194729739-4a737cd9-a6ed-4ee6-afbe-b653a5878b48.jpg)
-
-Since it seemed like the pieces would fit together and the shapes would make sense, I made a more detailed sketch with generic units to be filled in after I take measurements. 
-
-<img width="734" alt="digitalsketch" src="https://user-images.githubusercontent.com/115116582/194729055-c599a328-b60f-4e51-9ca5-09a3ad0a6a8c.png">
+## Learning
+I’ll be honest – I left last week’s lecture feeling very lost and quite nervous about the material that we covered. Things that are very numbers and logic oriented are very difficult for me to wrap my head around, and using Grasshopper is no different. 
 
 
-Then, I found some cardboard boxes in the recycling to use for cutting. 
-
-I measured the thickness of the cardboard with the calipers (2.4mm). I also tested out a few slot dimensions to see which length would work best for both sturdiness and the design of the shapes in terms of aesthetics and not having part overlap and bump each other. It seemed like 3mm slots would work well. ![calipers](https://user-images.githubusercontent.com/115116582/194730152-0be3b7b0-726d-4020-ace6-d8e49f88d7bc.jpg)
+After not 100% following the in-class demo, the first thing I did before starting anything formal for the assignment was watch through the lecture demo; first without following along just so I could really take in the information presented and why certain actions were taken, then while following.
 
 
-Before getting started in Rhino, I updated the sketch with the proposed dimensions 
+After I successfully followed the demo, I tried to replicate a similar result without referencing the demo. I kind of got there, and then ran into some questions about making the polar array symmetrical. My questions got answered by TA Jun Chao, and I felt like I understood things a lot better. 
 
-### Making the fish in Rhino: 
 
-<img width="359" alt="fish1" src="https://user-images.githubusercontent.com/115116582/194730202-7dd69e58-6749-4015-a0f6-f8110b140ff7.png">
+I was confused about why I could only divide by -2 to get the polar array to be symmetrical vs. If I adjusted it by another amount it would get out of whack. I learned about how the line of symmetry has to be centered on both the polar array and the main shape.
 
-1. Start with a 24mm square
-2. Follow scale in sketch to make the trapezoid tail, slice and join to the body
-3. Make a 3mm wide rectangle to create the slots
-4. Place rectangles in appropriate spots 
-5. Slice, trim, and join to cut out the slots from the fish
-6. Fillet the outer corners of the slots
+<img width="231" alt="Screen Shot 2022-10-12 at 12 25 21 PM" src="https://user-images.githubusercontent.com/115116582/196103769-050a55ec-2b03-4cf1-90e6-c87502cff503.png">
 
-### Making the waves: 
+<img width="252" alt="Screen Shot 2022-10-12 at 12 25 38 PM" src="https://user-images.githubusercontent.com/115116582/196103758-2bceeee0-cfde-4ee3-9ab9-4b0959a1f9eb.png">
 
-<img width="487" alt="wave1" src="https://user-images.githubusercontent.com/115116582/194730246-31a1eec4-755b-4541-9dc7-03bd88240e41.png">
 
-1. Start with a 24mm x 72mm rectangle
-2. Set guidelines at each third (24mm) of the rectangle to guide placement of the wave dips
-3. Make 3 angles using polyline tool centered at those guidelines 
-4. Fillet the 3 angles to make the rounded wave dip
-5. Slice, trim, and join to make a complete wave pieve
-6. Take the same 3mm rectangle from the previous shape to create the slots
-7. Place rectangles in appropriate spots 
-8. Slice, trim, and join to cut out the slots from the wave
-9. Fillet the outer corners of the slots
+*Symmetrical vs. wonky array*
 
-### Rendering & Exporting:
 
-Before finalizing and exporting these curves, I wanted to render the pieces in 3D to see how they would fit together and mockup how the press kit could look like. I extruded the pieces to 2.4mm and built a structure with them. 
+After figuring that out, I was able to make a simple circle with slots, and I understood why I was doing the things I was doing. I also discovered, after looking at [Grasshopper documentation](https://grasshopperdocs.com/completeIndex.html) that I could use “Region Difference” to trim and join the slots and shape, which to me was a lot easier!
 
-<img width="963" alt="3dkit" src="https://user-images.githubusercontent.com/115116582/194730251-e8850fd7-2b44-4563-b676-88cd8ef58879.png">
+<img width="484" alt="Screen Shot 2022-10-13 at 8 21 14 PM" src="https://user-images.githubusercontent.com/115116582/196105339-fa5c3086-46ff-4412-be88-4a1160040042.png">
+<img width="680" alt="Screen Shot 2022-10-13 at 8 18 36 PM" src="https://user-images.githubusercontent.com/115116582/196104666-82465f41-fe0c-45f4-9117-ff0fdd8c8718.png">
 
-I colored the pieces in the render, though they will just be cut from plain cardboard. In an ideal world I would like to paint the pieces! 
+## Making pieces in Rhino & Grasshopper
 
-Next, I exported the file to Adobe Illustrator. Since the laser cutter is in inches and I made my file in mm, I had to specify the scale when exporting.
+Now I felt like I could make some simple pieces for the assignment. Since I had some leftover cardboard from the same type of box that I used for Assignment 1, I decided to make pieces that would fit with my first assignment. Because the pieces I made for the first assignment were all square-based, I thought that keeping with the circles for the current pieces would be a nice addition to the ocean scene. 
 
-In Illustrator, I laid out the pieces on a canvas that was the same dimensions as the cardboard pieces I will be cutting on (6” x 12”). I also double checked that the dimensions remained consistent after exporting. Since 10 of each piece fits on each panel, I will cut 3 panels resulting in 30 of each piece.  
+In addition to the basic circle, I wanted to make something a little more interesting, so I thought about taking circular cut outs from the larger circle to make a sort of wavy shape. I played around a little bit and ended up making a polar array of smaller circles that were cut out from the larger one.
 
-<img width="784" alt="illustratorpieces" src="https://user-images.githubusercontent.com/115116582/194730260-cc770bfc-a840-4449-b1a6-aa7da84804fb.png">
+<img width="481" alt="Screen Shot 2022-10-14 at 2 33 46 PM" src="https://user-images.githubusercontent.com/115116582/196105406-d08af21f-a8ac-4304-8c32-496caa1fca01.png">
 
-### Laser Cutting:
+*Experimenting with cut outs*
 
-After loading my Illustrator file onto the Mill laptop, I calibrated the laser cutter
+Something that still confuses me is the “angle” option for polar arrays. It doesn’t behave as I thought that it would (e.g. the array doesn’t rotate the amount of degrees that is inputted), but after some trial and error I was able to get what seemed like a symmetrical result. 
 
-![calibration](https://user-images.githubusercontent.com/115116582/195201664-a1dfa645-9978-478c-a3c2-c68afb685cd4.jpg)
+<img width="246" alt="Screen Shot 2022-10-16 at 11 38 26 PM" src="https://user-images.githubusercontent.com/115116582/196106713-99b704b0-8247-4389-b70b-8521c51f7f82.png">
 
-The settings I used were the ones that were recommended per the Mill for the type of cardboard --
+*Angle of 172 vs. angle of 173 with no other settings changed*
+
+
+Now that I had the set up for these two shapes, I went back and adjusted the parameters so that they matched the requirements for my cardboard and the dimensions of the pieces from Assignment 1. The slots were adjusted to be 2.4mm wide and 3mm deep. The radius of the circle was adjusted to be 12mm (24mm diameter – since the base squares for A1 were 24mm around). Since the two pieces are based off the same base circle, it was nice that I could just bake it at different points and it would give me the two different pieces.
+
+<img width="1266" alt="Screen Shot 2022-10-13 at 8 50 45 PM" src="https://user-images.githubusercontent.com/115116582/196107504-232fa8d7-68b1-4772-9408-1c6d80f8de56.png">
+
+*Entire Grasshopper file*
+
+
+<img width="461" alt="Screen Shot 2022-10-16 at 11 14 04 PM" src="https://user-images.githubusercontent.com/115116582/196107624-ddc51fdc-0fc4-47ec-b8b7-28db81e84def.png">
+
+*Final pieces*
+
+
+<img width="480" alt="Screen Shot 2022-10-16 at 10 33 58 PM" src="https://user-images.githubusercontent.com/115116582/196107676-313a5591-7535-4d5b-b864-95ef021f5816.png">
+
+*3D render*
+
+
+## Exporting
+After exporting to an .AI file with the correct scaling, I placed the shapes on a 6”x12” canvas since that is the size of my cardboard panels. Since 32 total pieces fit on one canvas, I would need to cut only one panels total for the assignment
+
+<img width="1029" alt="Screen Shot 2022-10-16 at 11 53 43 PM" src="https://user-images.githubusercontent.com/115116582/196108935-ade3d79b-2b09-4896-9cf9-f3c908526904.png">
+
+## Laser cutting 
+Since I am using the same type of cardboard as last time, I used the same settings on the laser cutter: 
+
 
 Power: 100
 
@@ -98,18 +93,12 @@ Speed: 30
 
 Freq: 10
 
-![cutting](https://user-images.githubusercontent.com/115116582/195202155-f5992335-3c13-41de-bd79-7ee08800fcb3.jpg)
 
-I cut 3 6"x12" cardboard panels to get all of my pieces. 
+I ran into an error when I clicked print in Illustrator that said my colorspace was wrong, so I switched from CMYK to RGB and it worked; I didn't know it made a difference for the laser cutter.
 
-![finished-pieces](https://user-images.githubusercontent.com/115116582/195443354-d40fdd22-fa11-4015-a8a5-a711071423ff.jpg)
 
-To test my kit, I built a structure similar to the one I modeled earlier. It was actually sturdier than I expected! I could even have a piece hanging on the bottom of another piece without support
+When I first tried to cut, the laser cutter ran into an error when I pressed the “play” button; it said “Table error – crash detected”. After working with some of the staff at the Mill, we tried turning off auto focus on the printing preferences and restarting the laser cutter. This fixed everything and the cut worked perfectly.
 
-![finished1](https://user-images.githubusercontent.com/115116582/195203361-179f5ba8-59d7-4e59-99e1-071f8e246a90.jpg)
+![IMG_20221016_212302](https://user-images.githubusercontent.com/115116582/196109162-35f1e831-aa7f-4843-b2de-01428ec37c05.jpg)
 
-![finished](https://user-images.githubusercontent.com/115116582/195203375-b0cf9db8-a5f3-4409-bb39-2c007682a3c7.jpg)
-
-Credits:
-
-Jessica Douma for helpful post in Discord about exporting from Rhino to AI
+I fit all my pieces from this assignment together with some of the pieces from last time into a random scene/structure.
