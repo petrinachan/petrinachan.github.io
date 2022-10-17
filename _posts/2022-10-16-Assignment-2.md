@@ -103,4 +103,4 @@ When I first tried to cut, the laser cutter ran into an error when I pressed the
 I fit all my pieces from this assignment together with some of the pieces from last time into a random scene/structure.
 ![final1](https://user-images.githubusercontent.com/115116582/196111640-0ccb5bf1-83be-4198-9e62-6a0b89f09d89.jpg)![final2](https://user-images.githubusercontent.com/115116582/196111669-8fd2a8a4-568a-4cae-8459-fac89164b8b1.jpg)
 
-[Click here for shake test[(assets/other/A2/ShakeTest.mov)
+[Click here for shake test](assets/other/A2/ShakeTest.mov)
