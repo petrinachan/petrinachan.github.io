@@ -81,7 +81,7 @@ Now that I had the set up for these two shapes, I went back and adjusted the par
 
 
 ## Exporting
-After exporting to an .AI file with the correct scaling, I placed the shapes on a 6”x12” canvas since that is the size of my cardboard panels. Since 32 total pieces fit on one canvas, I would need to cut only one panels total for the assignment
+After exporting to an .AI file with the correct scaling, I placed the shapes on a 6”x12” canvas since that is the size of my cardboard panels. Since 32 total pieces fit on one canvas, I would need to cut only one panel total for the assignment
 
 <img width="1029" alt="Screen Shot 2022-10-16 at 11 53 43 PM" src="https://user-images.githubusercontent.com/115116582/196108935-ade3d79b-2b09-4896-9cf9-f3c908526904.png">
 
