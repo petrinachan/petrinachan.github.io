@@ -64,12 +64,14 @@ Something that still confuses me is the “angle” option for polar arrays. It 
 
 Now that I had the set up for these two shapes, I went back and adjusted the parameters so that they matched the requirements for my cardboard and the dimensions of the pieces from Assignment 1. The slots were adjusted to be 2.4mm wide and 3mm deep. The radius of the circle was adjusted to be 12mm (24mm diameter – since the base squares for A1 were 24mm around). Since the two pieces are based off the same base circle, it was nice that I could just bake it at different points and it would give me the two different pieces.
 
-<img width="1266" alt="Screen Shot 2022-10-13 at 8 50 45 PM" src="https://user-images.githubusercontent.com/115116582/196107504-232fa8d7-68b1-4772-9408-1c6d80f8de56.png">
+
+<img width="1405" alt="Screen Shot 2022-10-17 at 12 35 30 AM" src="https://user-images.githubusercontent.com/115116582/196116896-b91d6073-37d0-415f-bf12-5bead349ec0b.png">
+
 
 *Entire Grasshopper definition*
 
 
-<img width="1405" alt="Screen Shot 2022-10-17 at 12 35 30 AM" src="https://user-images.githubusercontent.com/115116582/196116896-b91d6073-37d0-415f-bf12-5bead349ec0b.png">
+<img width="461" alt="Screen Shot 2022-10-16 at 11 14 04 PM" src="https://user-images.githubusercontent.com/115116582/196121509-babd3057-d73a-40d5-b83d-532b9ee0f9d0.png">
 
 
 *Final pieces*
