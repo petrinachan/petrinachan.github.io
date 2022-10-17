@@ -40,7 +40,7 @@ I was confused about why I could only divide by -2 to get the polar array to be 
 *Symmetrical vs. wonky array*
 
 
-After figuring that out, I was able to make a simple circle with slots, and I understood why I was doing the things I was doing. I also discovered, after looking at [Grasshopper documentation](https://grasshopperdocs.com/completeIndex.html) that I could use “Region Difference” to trim and join the slots and shape, which to me was a lot easier!
+After figuring that out, I was able to make a simple circle with slots, and I understood why I was doing the things I was doing. I also discovered, after looking at [Grasshopper documentation](https://grasshopperdocs.com/completeIndex.html), that I could use “Region Difference” to trim and join the slots and shape, which to me was a lot easier!
 
 <img width="484" alt="Screen Shot 2022-10-13 at 8 21 14 PM" src="https://user-images.githubusercontent.com/115116582/196105339-fa5c3086-46ff-4412-be88-4a1160040042.png">
 <img width="680" alt="Screen Shot 2022-10-13 at 8 18 36 PM" src="https://user-images.githubusercontent.com/115116582/196104666-82465f41-fe0c-45f4-9117-ff0fdd8c8718.png">
