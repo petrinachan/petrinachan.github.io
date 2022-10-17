@@ -13,9 +13,11 @@ image: assignment-2.jpg
 
 [Rhino file (single pieces, 2D)](assets/other/A2/PiecesForPrint.3dm)
 
+[Grasshopper file (single pieces, 2D)](assets/other/A2/PiecesForPrint.3dm)
+
 [Rhino file (3D model)](assets/other/A2/3dModel.3dm)
 
-[Illustrator file](assets/other/A2/A2ToPrint.AI)
+[Illustrator file](assets/other/A2/GrasshopperFile.gh)
 
 
 ## Learning
@@ -64,10 +66,11 @@ Now that I had the set up for these two shapes, I went back and adjusted the par
 
 <img width="1266" alt="Screen Shot 2022-10-13 at 8 50 45 PM" src="https://user-images.githubusercontent.com/115116582/196107504-232fa8d7-68b1-4772-9408-1c6d80f8de56.png">
 
-*Entire Grasshopper file*
+*Entire Grasshopper definition*
 
 
-<img width="461" alt="Screen Shot 2022-10-16 at 11 14 04 PM" src="https://user-images.githubusercontent.com/115116582/196107624-ddc51fdc-0fc4-47ec-b8b7-28db81e84def.png">
+<img width="1405" alt="Screen Shot 2022-10-17 at 12 35 30 AM" src="https://user-images.githubusercontent.com/115116582/196116896-b91d6073-37d0-415f-bf12-5bead349ec0b.png">
+
 
 *Final pieces*
 
