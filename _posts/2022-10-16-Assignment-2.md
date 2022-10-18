@@ -27,7 +27,7 @@ I’ll be honest – I left last week’s lecture feeling very lost and quite ne
 After not 100% following the in-class demo, the first thing I did before starting anything formal for the assignment was watch through the lecture demo; first without following along just so I could really take in the information presented and why certain actions were taken, then while following.
 
 
-After I successfully followed the demo, I tried to replicate a similar result without referencing the demo. I kind of got there, and then ran into some questions about making the polar array symmetrical. My questions got answered by TA Jun Chao, and I felt like I understood things a lot better. 
+After I successfully followed the demo, I tried to replicate a similar result without referencing the demo. I kind of got there, and then ran into some questions about making the polar array symmetrical. My questions got answered by TA Junchao, and I felt like I understood things a lot better. 
 
 
 I was confused about why I could only divide by -2 to get the polar array to be symmetrical vs. If I adjusted it by another amount it would get out of whack. I learned about how the line of symmetry has to be centered on both the polar array and the main shape.
