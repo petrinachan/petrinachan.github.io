@@ -7,7 +7,7 @@ tags: [assignments]
 image: assignment-3.jpg
 ---
 
-# Assignment 3 - Parametric Modelling with Grasshopper
+# Assignment 3 - Getting started with 3D printing! 
 
 ## Files
 
