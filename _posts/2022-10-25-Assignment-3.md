@@ -7,9 +7,9 @@ tags: [assignments]
 image: assignment-3.jpg
 ---
 
-# Assignment 3 - Getting started with 3D printing! 
+# Assignment 3 - Getting started with 3D printing! :tada:  
 
-## Files
+## Files :file_folder:
 
 ### 3DM
 [2cm cube](assets/other/A3/3DM/2cmcube.3dm)
@@ -47,8 +47,6 @@ image: assignment-3.jpg
 [3cm cylinder, spiralized outer contour](assets/other/A3/gcode/Cylinder_spiralize.gcode)
 
 [Nested birds](assets/other/A3/gcode/CE3PRO_nested-revamp-1cm.gcode)
-
-
 
 
 ## Preface
@@ -95,7 +93,7 @@ Considering the difference in time it took to print the super vs. standard but t
 
 Even though I didn’t have any adhesion issues with these cubes, I wanted to test the glue stick out because it seemed interesting. Before printing my concentric cube, I put some glue down on the bed. HOWEVER… I definitely put way too much glue down and after the print was done, I could not scrape off the cube even after the bed cooled all the way!
 
-I started to panic and ran to printing forums and trusty Reddit threads for solutions. One common solution was to cool the bed and object extremely, either by placing the entire bed in the freezer or fridge. I opted to fill a Ziploc bag with ice cubes and place it on my cube and bed to avoid having to take off the bed and re-level everything. In my panic, I forgot to take any pictures of this debacle. I cleaned off the glue afterward with rubbing alcohol.
+I started to panic and ran to printing forums and trusty Reddit threads for solutions. One common solution was to cool the bed and object extremely, either by placing the entire bed in the freezer or fridge. I opted to fill a Ziploc bag with ice cubes :snowflake::snowflake::snowflake: and place it on my cube and bed to avoid having to take off the bed and re-level everything. In my panic, I forgot to take any pictures of this debacle. I cleaned off the glue afterward with rubbing alcohol.
 
 After sweating (on my part) and chilling (on the printer), I was finally able to scrape off my concentric layered cube. Before finding this setting in Cura (shoutout to the settings search function), I was really confused about what “a concentric top and bottom layer” could mean for a cube. I was trying to figure out a way that the actual top and bottom layer could be concentric like inside of each other. It was not computing in my head. But when I saw what was being printed it seemed so obvious! It was cool to see the difference in layer structure between the default cube and the concentric one. You can really see the concentric square rings on the top and bottom. This cube also measured 20.0mm.
 
@@ -173,7 +171,7 @@ This print measured at exactly 30.0mm. It reminded me of a film canister.
 ## Printing Nested Object
 The nested object is the one print that I modeled and printed when I got back from my trip on Monday night.
 
-I wanted to make something a little bit more interesting than a box or cylinder, but I didn’t have a lot of time since it was around 12am. I made a simple polyline outline of a bird, nested a smaller bird inside it, and placed a ring around them.
+I wanted to make something a little bit more interesting than a box or cylinder, but I didn’t have a lot of time since it was around 12am. I made a simple polyline outline of a bird, nested a smaller bird inside it, and placed a ring around them. :bird::bird:
 
 Here are the steps I followed to make the model:
 1. Draw angular polyline curves for the bird
@@ -218,7 +216,7 @@ It was interesting to watch how it filled in the layers from the most inner obje
 ![IMG_20221025_021252](https://user-images.githubusercontent.com/115116582/197890234-0611de5e-0134-4b27-bd72-375608ece0cf.jpg)
 *In progress print*
 
-The print took just over 3 hours and looked perfect (YAY). After letting the bed cool down completely (I left it overnight), the prints came right off with a little elbow grease. The birds actually look pretty neat! Some of the measurements varied by .02mm, similar to some of the earlier prints.
+The print took just over 3 hours and looked perfect (YAY). After letting the bed cool down completely (I left it overnight since it was now around 4am :sleepy:), the prints came right off with a little elbow grease. The birds actually look pretty neat! Some of the measurements varied by .02mm, similar to some of the earlier prints.
 
 ![IMG_20221025_112136](https://user-images.githubusercontent.com/115116582/197890290-b299596b-70db-4c1e-ad95-628f0ef7d961.jpg)
 
