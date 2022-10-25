@@ -73,6 +73,7 @@ Before becoming aware of the CHEP protocol that we were going to use for class, 
 When I went through the CHEP protocol, upon running the print code, I saw some variations in the line thicknesses. I did live adjustments and started over several times until I got lines that looked sufficiently even. The adjustments that I made were not that major, and it all went smoothly! At first, I wasn’t sure if I needed to manually preheat, but I soon realized that the printer will preheat everything for you when you start the print. To save time, I guess you could preheat it manually before, but it only takes about 2 minutes anyway. 
 
 ![IMG_20221015_182925 copy](https://user-images.githubusercontent.com/115116582/197885354-66e833b4-1566-47ce-9c9f-4db6c8ebde13.jpg)
+*Uneven lines (left) and even lines (right)*
 
 
 ## Printing cubes
