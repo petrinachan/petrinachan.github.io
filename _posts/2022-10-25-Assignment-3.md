@@ -43,6 +43,7 @@ I scored a great deal on a used Ender 3 Pro off Craigslist! The guy lived just a
 Since the printer was already all assembled, I didn’t have to put it together from scratch. After finding a nice spot for it in my studio apartment (it sits across the dining table from me), I checked to see that it was still set up well and nothing shifted during moving. 
 
 ![IMG_20221025_135124 copy](https://user-images.githubusercontent.com/115116582/197884802-28911514-82e2-4841-920d-6fa99228a804.jpg)
+![IMG_20221025_135131](https://user-images.githubusercontent.com/115116582/197892155-88371554-cbf1-41c6-ab33-239d504f6475.jpg)
 
 
 I didn’t have to adjust anything with the hardware during the initial setup inspection. It looked great! The guy I bought it from also said that he did a test print just the day before to check that everything was working as it should. 
@@ -203,12 +204,22 @@ It was interesting to watch how it filled in the layers from the most inner obje
 *In progress print*
 
 The print took just over 3 hours and looked perfect (YAY). After letting the bed cool down completely (I left it overnight), the prints came right off with a little elbow grease. The birds actually look pretty neat! Some of the measurements varied by .02mm, similar to some of the earlier prints.
+
 ![IMG_20221025_112136](https://user-images.githubusercontent.com/115116582/197890290-b299596b-70db-4c1e-ad95-628f0ef7d961.jpg)
 
+![smallbird](https://user-images.githubusercontent.com/115116582/197892878-ff0f2733-a834-4ddf-b954-518913867b47.jpg)
+*Small bird measurements*
 
-[images]
+![bigbird](https://user-images.githubusercontent.com/115116582/197892923-c8bda9ef-21d7-4485-9dc9-7f929755a72a.jpg)
+*Large bird measurement*
 
+![ring](https://user-images.githubusercontent.com/115116582/197892947-b5878964-1198-424a-adf2-8fe9dcf3e415.jpg)
+*Ring measurements*
 
+![IMG_20221025_112611](https://user-images.githubusercontent.com/115116582/197892392-394a9868-4c54-4046-bc66-f3cc424a3701.jpg)
+*Birds on display*
+
+From the measurements of these prints, it looks like my printer prints with about +/- .02mm accuracy, and is rather precise. I forgot to document with photos, but all my cylinders and tubes meausred at exactly 30.0mm height in addition to the widths documented above.
 
 ## Credit:
 Reddit threads for ice trick for stuck prints [[1]](https://www.reddit.com/r/ender3/comments/mvxy9h/prints_stuck_to_bed_too_well/) [[2]](https://www.reddit.com/r/ender3/comments/hubvbf/ender_3_v2_print_is_sticking_to_bed_to_tightly/)
