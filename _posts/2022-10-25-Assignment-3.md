@@ -13,25 +13,39 @@ image: assignment-3.jpg
 
 ### 3DM
 [2cm cube](assets/other/A3/3DM/2cmcube.3dm)
+
 [3cm tube](assets/other/A3/3DM/tube.3dm)
+
 [3cm cylinder](assets/other/A3/3DM/Cylinder.3dm)
+
 [Nested birds](assets/other/A3/3DM/nested-1cm.3dm)
 
 ### STL
 [2cm cube](assets/other/A3/STL/2cmcube.stl)
+
 [3cm tube](assets/other/A3/STL/Tube.stl)
+
 [3cm cylinder, .1mm tolerance](assets/other/A3/STL/Cylinder1mmTol.stl)
+
 [3cm cylinder, .001m tolerance](assets/other/A3/STL/Cylinder001mmTol.stl)
+
 [Nested birds](assets/other/A3/STL/nested-revamp-1cm.stl)
 
 ### gCode
 [2cm cube, low quality](assets/other/A3/gcode/CE3PRO_2cmcube.gcode)
+
 [2cm cube, standard quality](assets/other/A3/gcode/2cmcube_standardQ.gcode)
+
 [2cm cube, super quality](assets/other/A3/gcode/2cmcube_superQ.gcode)
+
 [2cm cube, standard quality, concentric layers](assets/other/A3/gcode/2cmcube_standardQ_concentric.gcode)
+
 [3cm tube single wall extrusion, 3cm tube double wall extrusion, 3cm cylinder 0.1mm tolerance, 3cm cylinder .001mm tolerance (4 objects)](assets/other/A3/gcode/Cylinder_first4.gcode)
+
 [3cm cylinder, on side w/ supports on](assets/other/A3/gcode/Cylinder_side.gcode)
+
 [3cm cylinder, spiralized outer contour](assets/other/A3/gcode/Cylinder_spiralize.gcode)
+
 [Nested birds](assets/other/A3/gcode/CE3PRO_nested-revamp-1cm.gcode)
 
 
