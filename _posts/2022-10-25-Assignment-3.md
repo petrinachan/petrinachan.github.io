@@ -49,6 +49,9 @@ image: assignment-3.jpg
 [Nested birds](assets/other/A3/gcode/CE3PRO_nested-revamp-1cm.gcode)
 
 
+![312325860_678363610199961_3589664410035027199_n](https://user-images.githubusercontent.com/115116582/197958843-1f691e48-7130-4da7-a7ac-c283b54f0a44.jpg)
+
+
 ## Preface
 I scored a great deal on a used Ender 3 Pro off Craigslist! The guy lived just a few blocks away from me and was super nice. He sold me the printer along with a spool of black filament already loaded, a glass bed already attached, in addition to a bunch of tools and odds and ends. 
 
