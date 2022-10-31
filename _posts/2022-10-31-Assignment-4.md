@@ -7,7 +7,7 @@ tags: [assignments]
 image: assignment-4.jpg
 ---
 
-# Assignment 4 - Getting started with 3D printing! 
+# Assignment 4 - Milling
 
 ## Files 
 
@@ -15,7 +15,7 @@ image: assignment-4.jpg
 [All panels](assets/other/A4/3DM/AllPanels.3dm)
 
 
-[sdfsd](assets/other/A4/3DM/New Base.3dm)
+[Resized base for 3D print](assets/other/A4/3DM/New Base.3dm)
 
 
 [Resized roof for 3D print](assets/other/A4/3DM/New roof tile.3dm)
