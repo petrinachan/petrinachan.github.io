@@ -126,7 +126,7 @@ But my happiness was short lived, as the moment the bit touched my sheet, it bro
 
 
 ![IMG_20221029_160404](https://user-images.githubusercontent.com/115116582/198968159-3f6ae9c2-3d41-425a-aa06-71473fcc09c0.jpg)
-*Broken bit*
+*Broken bit : (*
 
 
 After rehoming, re-installing, touching off, triple-checking measurements and settings, I tried again, hopeful. Again, the hope was short-lived. It broke again!!!! Wth? 
