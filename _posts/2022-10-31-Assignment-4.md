@@ -122,11 +122,11 @@ I imported them into KiCad as instructed in the lecture and slides. I followed a
 
 I measured both my sacrificial layer and my cutting layer and they were both 1.4mm. After installing the bit, homing, performing the touch-off, and sufficiently taping my FR1 layers (I learned from our in-class attempt at taping that you can’t just use a few pieces), I started milling. Yay!
 
-But my happiness was short lived, as the moment the bit touched my sheet, it broke :| …. I immediately thought something was wrong with my settings and offsets, so I double checked my settings with my classmates who were working at another machine successfully. Everything looked exactly as they had it, so I wasn’t sure what the problem was. Perhaps I installed the bit incorrectly? So, I started over.
+But my happiness was short lived, as the moment the bit touched my sheet, it broke. I immediately thought something was wrong with my settings and offsets, so I double checked my settings with my classmates who were working at another machine successfully. Everything looked exactly as they had it, so I wasn’t sure what the problem was. Perhaps I installed the bit incorrectly? So, I started over.
 
 
 ![IMG_20221029_160404](https://user-images.githubusercontent.com/115116582/198968159-3f6ae9c2-3d41-425a-aa06-71473fcc09c0.jpg)
-*Broken bit :( *
+*Broken bit*
 
 
 After rehoming, re-installing, touching off, triple-checking measurements and settings, I tried again, hopeful. Again, the hope was short-lived. It broke again!!!! Wth? 
