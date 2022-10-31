@@ -56,8 +56,7 @@ image: assignment-4.jpg
 
 
 # A few notes to start off with:
-This took way longer than I expected/planned it to
-The final result is not exactly what I envisioned either, but it works! And I learned quite a few things that I would do differently if I had more time
+This took way longer than I expected/planned it to. The final result is not exactly what I envisioned either, but it works! And I learned quite a few things that I would do differently if I had more time.
 
 # Process:
 
@@ -173,6 +172,8 @@ I crossed my fingers and printed. It just very barely fit together. But it did. 
 ![house comp2](https://user-images.githubusercontent.com/115116582/198969524-64f4ee72-eb2c-42c6-bbc4-3433416ce82a.jpg)
 ![IMG_20221030_232332 copy](https://user-images.githubusercontent.com/115116582/198969569-e3792ea5-cb75-451e-af39-4323425089da.jpg)
 ![IMG_20221030_232128](https://user-images.githubusercontent.com/115116582/198970108-206411a6-35e3-4d46-bfeb-0e2eefd720be.jpg)
+
+*^^ My partner who thought that it was cute that it kind of matched his sweater*
 
 
 Credits:
