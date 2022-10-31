@@ -14,16 +14,22 @@ image: assignment-4.jpg
 ### 3DM
 [All panels](assets/other/A4/3DM/AllPanels.3dm)
 
+
 [Resized base for 3D print](assets/other/A4/3DM/New Base.3dm)
 
+
 [Resized roof for 3D print](assets/other/A4/3DM/New roof tile.3dm)
+
 
 ### DXF
 [First cut outline](assets/other/A4/DXF/first print cutsB.dxf)
 
+
 [First cut engravings](assets/other/A4/DXF/first print engrave B.dxf)
 
+
 [Second cut outline](assets/other/A4/DXF/second side cutes.dxf)
+
 
 [Second cut engravings](assets/other/A4/DXF/second side engrave.dxf)
 
@@ -31,15 +37,22 @@ image: assignment-4.jpg
 ### Gerber
 [First cut outline](assets/other/A4/Gerber/FirstCut-Edge_Cuts.gbr)
 
+
 [First cut engravings](assets/other/A4/Gerber/FirstCut-User_Drawings.gbr)
+
 
 [Second cut outline](assets/other/A4/Gerber/second cuts-Edge_Cuts.gbr)
 
+
 [Second cut engravings](assets/other/A4/Gerber/second cuts-User_Drawings.gbr)
+
 
 ### STL
 [Roof](assets/other/A4/STL/Roof Tile.stl)
+
+
 [Base](assets/other/A4/STL/Base.stl)
+
 
 
 # A few notes to start off with:
