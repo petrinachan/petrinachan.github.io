@@ -127,10 +127,7 @@ But my happiness was short lived, as the moment the bit touched my sheet, it bro
 ![IMG_20221029_160404](https://user-images.githubusercontent.com/115116582/198968159-3f6ae9c2-3d41-425a-aa06-71473fcc09c0.jpg)
 *Broken bit : (*
 
-
-After rehoming, re-installing, touching off, triple-checking measurements and settings, I tried again, hopeful. Again, the hope was short-lived. It broke again!!!! Wth? 
-
-I really did not want to be responsible for breaking all the bits that we have, so I kind of froze and went back to look at everything that I had. Upon further scrutinization of my files, I realized some oddities (though I don’t believe they had anything to do with what was happening with the machine)
+I really did not want to be responsible for breaking any more bits, so I went back to look at everything that I had. Upon further scrutinization of my files, I realized some oddities (though I don’t believe they had anything to do with what was happening with the machine)
 
 In KiCad, it looked like a bunch of my dog bones were inverted, and in Bantam, it looked like one of my outlines had a thick double outline. After posing some of my questions in Slack, Noelle suggested exporting the DXF as “2007 lines”, which solved all these issues!
 
@@ -147,7 +144,7 @@ It cut!!!!
 ![IMG_20221029_170822](https://user-images.githubusercontent.com/115116582/198968522-21883403-caf4-423d-b231-8745894448c2.jpg)
 
 
-After chatting with Belinda, we solidified the hypothesis that it was definitely a machine issue, since she had the same problem with the bit breaking, but her cuts also worked on another machine with the exact same settings.
+After chatting with Belinda, we solidified the hypothesis that it was probably a machine issue, since she had the same problem with the bit breaking, but her cuts also worked on another machine with the exact same settings.
 
 Now, this is where I remembered that it was mentioned at one point to scale the slots or tabs to increase the chances of it fitting and accounting for any discrepancies while milling. Since my tabs and holes were the exact same size, they did not fit together. I had to file down the tabs quite a bit, making them thinner by sanding from the back and shorter by filing the sides. The paper that I was using was super old and worn, but all they had at the Mill apparently. I couldn’t really sand precisely, but got it just enough for the pieces to kind of fit, though not flush with each other, which will cause problems later on…
 
