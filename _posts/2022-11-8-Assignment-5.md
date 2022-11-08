@@ -16,6 +16,13 @@ image: assignment-5.jpg
 [Parrot from Thingiverse](https://www.thingiverse.com/thing:2020400)
 
 
+[Parrot hook 3DM](assets/other/A5/parrot hook.3dm)
+
+
+[Parrot hook STL](assets/other/A5/parrot hook.stl)
+
+
+
 ## Process
 I wanted to make something functional and not just decorative for this assignment. While looking around my apartment for simple things that I used, I noticed the boring command hooks that I have in my entryway. 
 
