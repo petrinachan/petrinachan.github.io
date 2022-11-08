@@ -11,6 +11,8 @@ image: assignment-5.jpg
 
 ## Files 
 [Wall hook from Thingiverse](https://www.thingiverse.com/thing:2027331)
+
+
 [Parrot from Thingiverse](https://www.thingiverse.com/thing:2020400)
 
 
@@ -34,11 +36,18 @@ When I imported them into Rhino, I noticed that the parrot is tiny compared to t
 <img width="502" alt="Screen Shot 2022-11-07 at 10 50 56 PM" src="https://user-images.githubusercontent.com/115116582/200494641-b7997ae4-7d92-41a7-bc79-a83f9cb9dfe8.png">
 
 
-After resizing, I checked to see if the meshes were closed or open. I used the properties panel and also MeshRepair to check this. While the hook was already a good, closed mesh, the parrot seemed to be an open mesh. I ran MeshRepair on it, and it cleaned up the errors. 
+After resizing, I checked to see if the meshes were closed or open. I used the properties panel and also MeshRepair to check this. While the hook was already a good, closed mesh, the parrot seemed to be an open mesh. I ran MeshRepair on it, and it cleaned up the errors.
+
+<img width="762" alt="Screen Shot 2022-11-04 at 4 56 34 PM" src="https://user-images.githubusercontent.com/115116582/200496139-bce58ca4-5407-4c30-bfd2-41dbd89d8c7a.png">
+
+<img width="784" alt="Screen Shot 2022-11-04 at 5 11 54 PM" src="https://user-images.githubusercontent.com/115116582/200496180-a14335ce-3c50-4024-acd2-7d2e6c43027a.png">
+
 
 Next, I put the two pieces together in the positions that I envisioned for the hook. The pieces are both pretty nicely shaped, so they came together pretty nicely already at this point. Once I had the parrot in place, I noticed that there was some excess from the model that was sticking out the other end of the hook. To get rid of this, I used MeshTrim and clicked to remove these bits.
 
 <img width="506" alt="Screen Shot 2022-11-04 at 5 13 22 PM" src="https://user-images.githubusercontent.com/115116582/200491757-29ebf43e-d307-46c8-ac32-8c6e7daabd2d.png">
+
+<img width="501" alt="Screen Shot 2022-11-04 at 5 13 29 PM" src="https://user-images.githubusercontent.com/115116582/200496236-24589f1c-aa94-4a51-924a-dfc5a215762f.png">
 
 
 I also noticed that the parrot was hollow, which again makes sense because of LEGOs, but I wanted it to be solid when printed. I created a circle and put it over the opening and joined it to the parrot. 
