@@ -7,7 +7,7 @@ tags: [assignments]
 image: assignment-5.jpg
 ---
 
-# Assignment 5 - Meshes
+# Assignment 5 - Meshes & Lamp p.1
 
 ## Files 
 [Wall hook from Thingiverse](https://www.thingiverse.com/thing:2027331)
@@ -22,8 +22,10 @@ image: assignment-5.jpg
 [Parrot hook STL](assets/other/A5/parrot hook.stl)
 
 
+[Organic platform STL](assets/other/A5/Platform.stl)
 
-## Process
+
+## Meshes
 I wanted to make something functional and not just decorative for this assignment. While looking around my apartment for simple things that I used, I noticed the boring command hooks that I have in my entryway. 
 
 While browsing Thingiverse for bird related things (just because I like birds, of course I had to look lol), I realized that I could easily combine a bird that stands upright, like a parrot, with a wall hook. This would work well especially if the bird has a flat back that could be pressed against the wall. 
@@ -97,5 +99,48 @@ I stuck a command strip on the back of him and hung him up!
 ![IMG_20221106_181832](https://user-images.githubusercontent.com/115116582/200494372-b7ec08b1-95ff-4197-bd38-ac553286de17.jpg)
 
 ![IMG_20221106_182058](https://user-images.githubusercontent.com/115116582/200494387-c4e33263-f332-4bac-a985-c052c41dba05.jpg)
+
+## Lamp p.1
+
+I didn't get to printing or making anything directly for my lamp this week, but I did sketch out a plan and practice making the types of shapes and objects in Rhino that I want to print.
+
+There are a few artists that I follow that have made lamps using organic things and shapes such as twigs and leaves. I wanted to do something similar, incorporating something perhaps from nature. I was browsing through pictures of other 3d printed lamp structures and thought that some of them looked sort of bone-like, which I thought was cool. 
+
+Eventually, my idea arose, a fish skeleton lamp! My vision is for the bones and housing to be 3d printed (in pieces, then glued together), and potentially wrapped in a thin paper (like rice paper) so that the light will shine through them.
+
+Looking at the lamp innards, the bulb housing has two holes at the top that look like they could be used to attach the lamp shade. If I made ring with two prongs to stick inside those holes, that might be able to hold and stablize the structure.
+
+![IMG_20221108_115519](https://user-images.githubusercontent.com/115116582/200708710-9d7a6b8a-0d91-4800-8dee-30d202b4f733.jpg)
+*Holes in bulb housing*
+
+
+![lamp draft copy](https://user-images.githubusercontent.com/115116582/200710107-ee0f78f5-7a4e-4324-a3fa-1c345fd1d29e.jpg)
+*Lamp plan sketch*
+
+I have the option of making the bones more minimalistic or more realistic in terms of texture. If I went more realistic, I would have to learn how to make the organic little bumps and divets of a bone to give it a more organic look. I searched for some tutorials on how to make organic shapes in Rhino and came across some good ones. [This](https://www.youtube.com/watch?v=iwqPI0kN7u4) is one of the best that I found. 
+
+I wanted to try my hand at make some organic objects, so I played around with a few techniques and printed some of my test models.
+I learned about:
+ - Making surfaces from curve networks
+ - Making surfaces from planar curves
+ - Blending surfaces (BlendSrf)
+ - DupMeshHoleBoundary (using it to close an open mesh)
+
+I eventually made this blobby pedestal-like thing that I thought might be actually useful for displaying figurines and trinkets. Because I was just experiementing and playing around, I didn't organize my work or document things very well, but here is a glimpse of my chaotic sandbox file
+
+
+<img width="994" alt="Screen Shot 2022-11-08 at 4 42 55 PM" src="https://user-images.githubusercontent.com/115116582/200708190-d308c88d-76d0-4463-85f9-ca6c5aa44b0b.png">
+
+First, I tried printing a mini version of the pedestal and then a larger one.
+
+![IMG_20221108_114406 copy](https://user-images.githubusercontent.com/115116582/200709455-16019bcd-b514-4973-8d26-5df8f6ad0905.jpg)
+*Both pedestals*
+
+![IMG_20221108_163632](https://user-images.githubusercontent.com/115116582/200709491-5f10ea88-aa14-4afa-9be8-8cb51a0e2a04.jpg)
+*Large pedestal with figurine*
+
+Npw that I'm more confident making organic solids, I can build my sketleton next week!
+
+
 
 
