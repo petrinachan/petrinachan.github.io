@@ -15,6 +15,7 @@ image: assignment-5-5.jpg
 [Lamp - Fish bones STL](assets/other/A5-5/FishBones.stl)
 [Mold 3DM](assets/other/A5-5/eames molds_duplicate.3dm)
 [Mold STL](assets/other/A5-5/eames molds_duplicate.stl)
+[Mold - Thingiverse model](https://www.thingiverse.com/thing:237419/makes)
 
 
 ## Lamp p.2
@@ -257,7 +258,9 @@ The keys fit together perfectly, and everything was aligned!
 ![IMG_20221112_201438](https://user-images.githubusercontent.com/115116582/201594401-124d6bb1-d127-4496-8b2d-e3014543d638.jpg)
 *testing structual integrity of deepest parts*
 
-
+## Credits:
+Thigiverse user ibudmen for [Eames Bird model](https://www.thingiverse.com/thing:237419/makes)
+[Article on tree supports](https://all3dp.com/2/cura-tree-support/)
 
 
 
