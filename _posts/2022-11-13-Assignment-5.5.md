@@ -7,139 +7,208 @@ tags: [assignments]
 image: assignment-5-5.jpg
 ---
 
-# Assignment 5 - Meshes & Lamp p.1
+# Assignment 5.5 - Lamps p.2 Molding & Casting p.1
 
-## Files 
-[Wall hook from Thingiverse](https://www.thingiverse.com/thing:2027331)
+## Files
 
+## Lamp p.2
 
-[Parrot from Thingiverse](https://www.thingiverse.com/thing:2020400)
+Continuing where I left off last time, it was time for me to start modeling and the parts for my lamp. The first thing that I needed to make was the ring I was going to use to attach my main lamp shade parts to the existing bulb housing.
 
+As a reminder, I wanted to make a ring with prongs that fit into the holes on the top of the bulb housing. First, I took measurements of the relevant parts (distance between holes, hole width, hole depth, desired ring diameter & radius). I sized down by .02mm for the hole measurements to account for tolerance noise.
 
-[Parrot hook 3DM](assets/other/A5/parrot hook.3dm)
+Next, I made my pronged ring in Rhino. Here are the steps I took to make the object:
 
+Make rectangles for the inserted end of the prongs using hole dimensions
+1. Extrude up
+2. Create arms of the prong using the same dimensions but rotated 90 deg
+3. Line up arms and inserts 
+4. BooleanUnion
+5. Make circle curve for ring 
+6. Offset 
+7. Extrude
+8. Move and place around arms
+9. Trim excess arms sticking outside of ring
+10. BooleanUnion entire shape
 
-[Parrot hook STL](assets/other/A5/parrot hook.stl)
 
+<img width="997" alt="Screen Shot 2022-11-13 at 10 30 28 PM" src="https://user-images.githubusercontent.com/115116582/201590613-1655a279-78b3-43a6-8b4e-c8413ca441c5.png">
 
-[Organic platform STL](assets/other/A5/Platform.stl)
+This was relatively simple! I printed the ring, and it fit right into the holes exactly how I planned. It was a smooth and snug fit while coming in and out with ease. (Forgot to take a photo of this!)
 
+Next was the challenge of making the fish bones. I ended up deviating a little from the original plan because of impatience, a mistake or two, and lack of time. Instead of having two fish in opposite directions, I printed two of the same fish in the same direction. It still turned out nice!
 
-## Meshes
-I wanted to make something functional and not just decorative for this assignment. While looking around my apartment for simple things that I used, I noticed the boring command hooks that I have in my entryway. 
+The fish are made up of 4 types of parts: a head, tail, spine, and ribs. The head and tail seemed like the easiest to make shapes, so I saved those for last. 
 
-While browsing Thingiverse for bird related things (just because I like birds, of course I had to look lol), I realized that I could easily combine a bird that stands upright, like a parrot, with a wall hook. This would work well especially if the bird has a flat back that could be pressed against the wall. 
+The first thing I made was the spine. I wanted some organic “bone-like” variation and nuances in these, so I didn’t just make a smooth tube. Steps for making the spine:
 
-I found this parrot that is apparently LEGO compatible that I thought would be perfect. It’s kind of low poly looking, which would make it look a bit sleek and minimalistic. 
+1. Draw curve that I wanted the spine to follow
+2. Draw randomly shaped closed curves in general desired thickness, tapering toward the ends
+3. Loft (make sure there are no twisted parts — some trials and error required here)
 
-<img width="716" alt="Screen Shot 2022-11-06 at 1 41 31 AM" src="https://user-images.githubusercontent.com/115116582/200490010-a072c1bf-a5ad-4109-9ec7-a6e1379766fd.png">
+There aren’t many steps, but it took me a while to get everything aligned and looking the way I wanted to. Most of it was tinkering around and trial and error, so I don’t have concrete steps to report on for these tweaks.
 
+![Screen Shot 2022-11-11 at 1 09 36 AM copy](https://user-images.githubusercontent.com/115116582/201591302-30ddb751-118d-45b4-8dae-cdff4a476254.jpg)
+*Before and after loft*
 
-Next, I found a hook that would match. I found this two-tiered sort of squared hook that looked like it would fit nicely with the parrot.
 
-<img width="739" alt="Screen Shot 2022-11-07 at 10 43 41 PM" src="https://user-images.githubusercontent.com/115116582/200493520-4f1b5d2a-ed5e-4a2c-9fca-0b25d9abc8bf.png">
+Next, I made the ribs:
+1. Stack two truncated cones with the large base touching
+2. BooleanUnion these cones
+3. Make a rib shaped curve
+4. Flow along curve (turn on stretch)
+5. Scale
+6. Copy & paste and scale for different sized ribs
+7. Move ribs in place, intersecting with the spine.
 
 
-When I imported them into Rhino, I noticed that the parrot is tiny compared to the hook. I guess it made sense for it to be small since it is meant to work with LEGO. I scaled the parrot up just by eyeballing what would look appropriate with the hook. At this point I didn’t realize how large the hook was.
+<img width="327" alt="Screen Shot 2022-11-11 at 1 11 31 AM" src="https://user-images.githubusercontent.com/115116582/201591513-41113f6a-c6b7-4932-b07a-646d79257b0e.png">
 
-<img width="502" alt="Screen Shot 2022-11-07 at 10 50 56 PM" src="https://user-images.githubusercontent.com/115116582/200494641-b7997ae4-7d92-41a7-bc79-a83f9cb9dfe8.png">
+<img width="262" alt="Screen Shot 2022-11-13 at 10 36 20 PM" src="https://user-images.githubusercontent.com/115116582/201591681-d841e89f-1ac3-4e9e-93ee-438512f349de.png">
 
 
-After resizing, I checked to see if the meshes were closed or open. I used the properties panel and also MeshRepair to check this. While the hook was already a good, closed mesh, the parrot seemed to be an open mesh. I ran MeshRepair on it, and it cleaned up the errors.
+With the ribs in place, I could make my head and tail. These were relatively simple, made of BooleanUnioned rounded triangles that are extruded. I filleted the edges of the tail and one side of the head to give them a slightly smoother look. I forgot to take progress shots of the process, but here you can see a glimpse through the curve artifacts from making the tail.
 
-<img width="762" alt="Screen Shot 2022-11-04 at 4 56 34 PM" src="https://user-images.githubusercontent.com/115116582/200496139-bce58ca4-5407-4c30-bfd2-41dbd89d8c7a.png">
 
-<img width="784" alt="Screen Shot 2022-11-04 at 5 11 54 PM" src="https://user-images.githubusercontent.com/115116582/200496180-a14335ce-3c50-4024-acd2-7d2e6c43027a.png">
+<img width="354" alt="Screen Shot 2022-11-13 at 9 29 10 PM" src="https://user-images.githubusercontent.com/115116582/201591705-83bdd69c-e745-4624-b803-7bf482f9b5da.png">
 
 
-Next, I put the two pieces together in the positions that I envisioned for the hook. The pieces are both pretty nicely shaped, so they came together pretty nicely already at this point. Once I had the parrot in place, I noticed that there was some excess from the model that was sticking out the other end of the hook. To get rid of this, I used MeshTrim and clicked to remove these bits.
+After placing the head and tail in the appropriate places on the spine, this is what the fish looked like in Rhino.
 
-<img width="506" alt="Screen Shot 2022-11-04 at 5 13 22 PM" src="https://user-images.githubusercontent.com/115116582/200491757-29ebf43e-d307-46c8-ac32-8c6e7daabd2d.png">
+<img width="277" alt="Screen Shot 2022-11-10 at 10 03 13 PM" src="https://user-images.githubusercontent.com/115116582/201591746-ffae89ee-323e-479e-b341-10f761ae2e51.png">
 
-<img width="501" alt="Screen Shot 2022-11-04 at 5 13 29 PM" src="https://user-images.githubusercontent.com/115116582/200496236-24589f1c-aa94-4a51-924a-dfc5a215762f.png">
 
+Next was to print the fish, which was kind of intimidating. I knew it would need some crazy supports because of the odd shape and things coming off of it. I remember seeing some images of prints that used supports that were different from the block shaped supports that take a lot of time and filament to print, so I wanted to find out if Cura was able to generate these types of supports. I found out about [tree supports, and that Cura can generate these](https://all3dp.com/2/cura-tree-support/). These supports were hollow and have a unique structure so that they offer appropriate support while supposedly being easier to remove and quicker to print.
 
-I also noticed that the parrot was hollow, which again makes sense because of LEGOs, but I wanted it to be solid when printed. I created a circle and put it over the opening and joined it to the parrot. 
+So, I brought the fish into Cura and turned on tree supports. It looked so interesting! It really looked like a tree grew around it.
 
-![Screen Shot 2022-11-04 at 5 17 21 PM copy](https://user-images.githubusercontent.com/115116582/200491541-e74e495e-4599-4432-888c-0b535468012c.jpg)
+<img width="643" alt="Screen Shot 2022-11-10 at 10 02 36 PM" src="https://user-images.githubusercontent.com/115116582/201591783-30d5f8a7-d254-4df5-9b0e-23e53760b766.png">
 
 
-Next, I joined the two objects together and made sure that the resulting object was still a closed mesh. 
+Print time was ~6 hours. It was quite interesting to watch the support structure build up.
 
-Then, I exported it to STL and prepared it in Cura. This is when I realized that it was kind of huge, so I scaled it down 50%.
+![IMG_20221110_215822](https://user-images.githubusercontent.com/115116582/201591813-f1e56bb4-7060-4e69-9cc8-84735b38c3cc.jpg)
 
-I turned supports on since I thought that it needed it for the head at least. Everything else I left at my default settings and I printed.
+![IMG_20221111_025408 copy](https://user-images.githubusercontent.com/115116582/201591862-ee6d2e44-8884-4e9d-b3fd-90f14e9dbcce.jpg)
 
-I left the house and let it finish while I was away. I came back to a strange scene on the print bed. The print had finished, but a part of the print had broken off and was hanging off the print? It seemed really odd since even the broken off part was printed seemingly correctly. I could not figure out how this could have happened. 
 
-![IMG_20221105_012825](https://user-images.githubusercontent.com/115116582/200493333-f0a29698-f8b1-426a-8eef-25d78be2d70c.jpg)
+When it came time to remove the supports, I ran into some trouble. I broke my print! I was so angry since it was 4am and took 6 hours to print. There was one part of the print that was enclosed in the “tree” and I didn’t realize that and snapped it while pulling the support off. It was in a weird position and couldn’t be easily fixed with glue. Next time, I will be cutting the supports to help get them off. The good thing is that this broken print came in handy. I used it as a reference to measure other pieces later when assembling the lamp. 
 
-I went back into Cura and Rhino to investigate and see if anything was off. I noticed a couple small things that I could tweak, but nothing that I think would have caused problems, let alone the problem that happened. 
+![IMG_20221111_034112](https://user-images.githubusercontent.com/115116582/201591845-b3a795c6-c52f-49e8-8115-0d75a1a66e5b.jpg)
+* : ( *
 
-Some things that I tweaked:
-Changed the angle of the parrot tail so that it sits flat on the bed
-Changed supports to triangles to be more efficient
-Changed supports to only generate where it touches the bed
 
-I sliced, printed and let this run again. Not sure what the difference was or what changed, but it printed out just fine!
+So after print #2 finished, I took scissors and cutters to more carefully remove the supports, and luckily it did not break. Rinse and repeat with print #3 – This is when I decided to just reuse the same model rather than make a new one in a different orientation for the other fish on the light. (18 hour printing time total for these 3 fish @_@).
 
-![IMG_20221105_191252](https://user-images.githubusercontent.com/115116582/200491968-9766efe3-bbf0-49f4-a6ed-8c8985135f8f.jpg)
+![IMG_20221111_202614](https://user-images.githubusercontent.com/115116582/201591921-ed3ab478-b2fd-426f-8100-6718e465fecc.jpg)
+*Cutting supports out*
 
-![IMG_20221105_191551](https://user-images.githubusercontent.com/115116582/200491979-ef6dfe6a-4bf3-4104-8a0b-c5c900fbd2aa.jpg)
+To attach the two fish to the ring, I super glued them and let them dry overnight. I supported them by resting them on duct tape rolls on top of a couple tissue boxes, which worked surprisingly well.
 
+![IMG_20221111_204345](https://user-images.githubusercontent.com/115116582/201591970-bb80dbc0-dd18-4fa9-a3da-5ebb11ffe8db.jpg)
 
-After seeing that it worked, I wanted to print a white version since I thought that would look better in general and it would fit my apartment more.
 
-![IMG_20221106_001915](https://user-images.githubusercontent.com/115116582/200494105-e3463490-7734-4379-9b60-23d973013c88.jpg)
+The next day, the fish had dried and seemed sturdy! I was worried that they wouldn’t stick correctly; they did take longer to dry than I thought they would. I tested how they looked like on the light:
 
-![IMG_20221106_145413](https://user-images.githubusercontent.com/115116582/200494137-038e6730-0d41-4e2e-899e-2aa47acfabcd.jpg)
+![IMG_20221112_131454 copy](https://user-images.githubusercontent.com/115116582/201591993-5ec0a2ab-c46e-4da0-be8d-01c45a7232c2.jpg)
 
-I stuck a command strip on the back of him and hung him up!
 
-![IMG_20221106_181832](https://user-images.githubusercontent.com/115116582/200494372-b7ec08b1-95ff-4197-bd38-ac553286de17.jpg)
+Looked pretty good! For the finishing touch, I needed to add some thin paper to diffuse the light and give the fish a “body” as planned. I picked up this interesting translucent paper that had some cool texture at the art store. I planned to stick it to the fish with some Mod Podge. 
 
-![IMG_20221106_182058](https://user-images.githubusercontent.com/115116582/200494387-c4e33263-f332-4bac-a985-c052c41dba05.jpg)
+![IMG_20221113_215633](https://user-images.githubusercontent.com/115116582/201592242-5bc5b091-1215-4dbd-b759-d79f4a60ba94.jpg)
 
-## Lamp p.1
 
-I didn't get to printing or making anything directly for my lamp this week, but I did sketch out a plan and practice making the types of shapes and objects in Rhino that I want to print.
 
-There are a few artists that I follow that have made lamps using organic things and shapes such as twigs and leaves. I wanted to do something similar, incorporating something perhaps from nature. I was browsing through pictures of other 3d printed lamp structures and thought that some of them looked sort of bone-like, which I thought was cool. 
+Using the broken fish from earlier, I drew out a fish shape on a piece of paper to use as a template. I cut the shapes out of the special paper and glued them to the fish. 
 
-Eventually, my idea arose, a fish skeleton lamp! My vision is for the bones and housing to be 3d printed (in pieces, then glued together), and potentially wrapped in a thin paper (like rice paper) so that the light will shine through them.
 
-Looking at the lamp innards, the bulb housing has two holes at the top that look like they could be used to attach the lamp shade. If I made ring with two prongs to stick inside those holes, that might be able to hold and stablize the structure.
+![IMG_20221112_164216 copy](https://user-images.githubusercontent.com/115116582/201592193-bb400b92-d413-44b5-b571-e09de65561be.jpg)
 
-![IMG_20221108_115519](https://user-images.githubusercontent.com/115116582/200708710-9d7a6b8a-0d91-4800-8dee-30d202b4f733.jpg)
-*Holes in bulb housing*
+![IMG_20221112_165733](https://user-images.githubusercontent.com/115116582/201592257-bc2ae148-3b46-478f-885d-e5ad3a91379b.jpg)
 
 
-![lamp draft copy](https://user-images.githubusercontent.com/115116582/200710107-ee0f78f5-7a4e-4324-a3fa-1c345fd1d29e.jpg)
-*Lamp plan sketch*
+After letting it dry for a few minutes, the lamp was ready! 
 
-I have the option of making the bones more minimalistic or more realistic in terms of texture. If I went more realistic, I would have to learn how to make the organic little bumps and divets of a bone to give it a more organic look. I searched for some tutorials on how to make organic shapes in Rhino and came across some good ones. [This](https://www.youtube.com/watch?v=iwqPI0kN7u4) is one of the best that I found. 
 
-I wanted to try my hand at make some organic objects, so I played around with a few techniques and printed some of my test models.
-I learned about:
- - Making surfaces from curve networks
- - Making surfaces from planar curves
- - Blending surfaces (BlendSrf)
- - DupMeshHoleBoundary (using it to close an open mesh)
+![IMG_20221112_171819 (1)](https://user-images.githubusercontent.com/115116582/201592299-a19a0803-ffb9-4285-bd2e-ea6aacc8d7b7.jpg)
 
-I eventually made this blobby pedestal-like thing that I thought might be actually useful for displaying figurines and trinkets. Because I was just experiementing and playing around, I didn't organize my work or document things very well, but here is a glimpse of my chaotic sandbox file
+![IMG_20221112_172429 copy](https://user-images.githubusercontent.com/115116582/201592309-f028bb84-1ce0-43d6-b52b-b96856729862.jpg)
 
+![IMG_20221112_173640](https://user-images.githubusercontent.com/115116582/201592319-c086c3ea-0e92-4273-b405-088d132edce9.jpg)
 
-<img width="994" alt="Screen Shot 2022-11-08 at 4 42 55 PM" src="https://user-images.githubusercontent.com/115116582/200708190-d308c88d-76d0-4463-85f9-ca6c5aa44b0b.png">
 
-First, I tried printing a mini version of the pedestal and then a larger one.
+The ring still comes on and off cleanly.
 
-![IMG_20221108_114406 copy](https://user-images.githubusercontent.com/115116582/200709455-16019bcd-b514-4973-8d26-5df8f6ad0905.jpg)
-*Both pedestals*
+![IMG_20221112_180811 copy](https://user-images.githubusercontent.com/115116582/201592339-eb04e48a-2808-4bff-aea6-e1c40d422cdd.jpg)
 
-![IMG_20221108_163632](https://user-images.githubusercontent.com/115116582/200709491-5f10ea88-aa14-4afa-9be8-8cb51a0e2a04.jpg)
-*Large pedestal with figurine*
 
-Npw that I'm more confident making organic solids, I can build my sketleton next week!
+I’m pretty happy with the result; even though it was not ideally what I envisioned, it still looks pretty neat. Maybe someday I will re-attempt. : )
+
+## Molding & Casting p.1
+
+The other week, I found this model on Thingiverse of the Eames House Bird. It was already split in half for printing, so I thought it would be nice to make a mold from it. 
+
+[image of thing]
+
+The plan was to put each half into an identical “box” (more like a coffin?) with a few keys, a pour hole and a vent or two. I made one box/half first
+
+To make the box:
+Make rectangle
+Offset
+Extrude high enough to have enough structural support at protruding belly of bird
+Add a base to the box by extruding the same initial rectangle
+BooleanUnion
+
+To make the protruding keys:
+Make truncated cones
+Place & align on top of box
+Boolean Union
+
+To make pour hole and vents:
+Make cylinder
+Trim in half with rectangular plane
+Position in place in box
+Trim excess
+
+Next, I mirrored the entire box structure and aligned it to the other bird half. Since everything was aligned to the grid, it was easy to line up exactly for the other half.
+
+The difference here is that the keys had to be sunken holes instead of protruding. To make sunken keys:
+
+Rotate keys so that the large side is facing upwards
+Move downward until aligned underneath the surface 
+BooleanDifference
+
+Molds looked good, so I put them in Cura and printed them. I printed with low quality settings to speed up the print, since it was going to take ~9-10 hours. I didn’t mind a bit lower quality for this because I wanted to see the texture on the final product. 
+
+I let this print over night and woke up to some nice half birds.
+
+[images]
+
+It was now time to mix my Oomoo up. I gathered the supplies that I could find in my apartment; some plastic cups and disposable cutlery and chopsticks for mixing.
+
+I measured out the equal parts of the two components and mixed them together until it was uniform (~3-4 min).
+
+[images]
+I slowly poured the Oomoo into the prints starting at a low point and letting it creep up on its own.
+
+[images]
+
+6 hours later… It was time to release the molds! It was kind of hard to release these, they were really tight in the box! First, I separated all corners and sides with my fingers and actually used the scraper from my 3d printer to help pry them out. I was kind of scared I would damage them, but they came out just fine!
+
+However, as you can see the pour tube is kind of weird. Oomoo seemed to have seeped underneath the tube, between the cylinder and the rest of the mold. 
+
+I realized later that these cylinders weren’t sitting even and flat with the main bird part of the mold which was probably causing this problem. See the space between the half cylinder and the rest of the mold in red.
+
+[images]
+
+I ended up trimming off some of the extra flaps on the tube with scissors. It isn’t totally clean, but enough to pour stuff down, I think.
+
+The keys fit together perfectly, and everything was aligned!
+
+[images]
+
+
+
 
 
 
