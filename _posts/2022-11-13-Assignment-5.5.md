@@ -11,11 +11,20 @@ image: assignment-5-5.jpg
 
 ## Files
 [Lamp - All parts 3DM](assets/other/A5-5/LampParts.3dm)
+
+
 [Lamp - Ring STL](assets/other/A5-5/Lamp ring adjusted.stl)
+
+
 [Lamp - Fish bones STL](assets/other/A5-5/FishBones.stl)
+
+
 [Mold 3DM](assets/other/A5-5/eames molds_duplicate.3dm)
+
 [Mold STL](assets/other/A5-5/eames molds_duplicate.stl)
+
 [Mold - Thingiverse model](https://www.thingiverse.com/thing:237419/makes)
+
 
 
 ## Lamp p.2
