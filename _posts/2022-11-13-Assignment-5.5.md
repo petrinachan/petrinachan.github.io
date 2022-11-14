@@ -10,12 +10,23 @@ image: assignment-5-5.jpg
 # Assignment 5.5 - Lamps p.2 Molding & Casting p.1
 
 ## Files
+[Lamp - All parts 3DM](assets/other/A5-5/LampParts.3dm)
+[Lamp - Ring STL](assets/other/A5-5/Lamp ring adjusted.stl)
+[Lamp - Fish bones STL](assets/other/A5-5/FishBones.stl)
+[Mold 3DM](assets/other/A5-5/eames molds_duplicate.3dm)
+[Mold STL](assets/other/A5-5/eames molds_duplicate.stl)
+
 
 ## Lamp p.2
 
 Continuing where I left off last time, it was time for me to start modeling and the parts for my lamp. The first thing that I needed to make was the ring I was going to use to attach my main lamp shade parts to the existing bulb housing.
 
-As a reminder, I wanted to make a ring with prongs that fit into the holes on the top of the bulb housing. First, I took measurements of the relevant parts (distance between holes, hole width, hole depth, desired ring diameter & radius). I sized down by .02mm for the hole measurements to account for tolerance noise.
+As a reminder, I wanted to make a ring with prongs that fit into the holes on the top of the bulb housing. 
+
+<img width="551" alt="Screen Shot 2022-11-13 at 9 07 10 PM" src="https://user-images.githubusercontent.com/115116582/201592473-f7611715-2eeb-4564-9e08-10ba62ebf4b8.png">
+
+
+First, I took measurements of the relevant parts (distance between holes, hole width, hole depth, desired ring diameter & radius). I sized down by .02mm for the hole measurements to account for tolerance noise.
 
 Next, I made my pronged ring in Rhino. Here are the steps I took to make the object:
 
@@ -82,6 +93,9 @@ Next was to print the fish, which was kind of intimidating. I knew it would need
 
 So, I brought the fish into Cura and turned on tree supports. It looked so interesting! It really looked like a tree grew around it.
 
+<img width="453" alt="Screen Shot 2022-11-11 at 1 29 09 AM" src="https://user-images.githubusercontent.com/115116582/201592524-4dabbb2f-1a10-40b4-b56e-8527056e0894.png">
+
+
 <img width="643" alt="Screen Shot 2022-11-10 at 10 02 36 PM" src="https://user-images.githubusercontent.com/115116582/201591783-30d5f8a7-d254-4df5-9b0e-23e53760b766.png">
 
 
@@ -95,7 +109,7 @@ Print time was ~6 hours. It was quite interesting to watch the support structure
 When it came time to remove the supports, I ran into some trouble. I broke my print! I was so angry since it was 4am and took 6 hours to print. There was one part of the print that was enclosed in the “tree” and I didn’t realize that and snapped it while pulling the support off. It was in a weird position and couldn’t be easily fixed with glue. Next time, I will be cutting the supports to help get them off. The good thing is that this broken print came in handy. I used it as a reference to measure other pieces later when assembling the lamp. 
 
 ![IMG_20221111_034112](https://user-images.githubusercontent.com/115116582/201591845-b3a795c6-c52f-49e8-8115-0d75a1a66e5b.jpg)
-* : ( *
+* ignore messy floor! *
 
 
 So after print #2 finished, I took scissors and cutters to more carefully remove the supports, and luckily it did not break. Rinse and repeat with print #3 – This is when I decided to just reuse the same model rather than make a new one in a different orientation for the other fish on the light. (18 hour printing time total for these 3 fish @_@).
@@ -148,66 +162,100 @@ I’m pretty happy with the result; even though it was not ideally what I envisi
 
 The other week, I found this model on Thingiverse of the Eames House Bird. It was already split in half for printing, so I thought it would be nice to make a mold from it. 
 
-[image of thing]
+![Screen Shot 2022-11-13 at 10 01 54 PM copy](https://user-images.githubusercontent.com/115116582/201592689-c2128ba8-aa23-42ca-bbe7-ee991ec4c596.jpg)
 
-The plan was to put each half into an identical “box” (more like a coffin?) with a few keys, a pour hole and a vent or two. I made one box/half first
+
+The plan was to put each half into an corresponding “box” (more like a coffin?) with a few keys, a pour hole, and a vent or two. I made one box/half first
 
 To make the box:
-Make rectangle
-Offset
-Extrude high enough to have enough structural support at protruding belly of bird
-Add a base to the box by extruding the same initial rectangle
-BooleanUnion
+1. Make rectangle
+2. Offset
+3. Extrude high enough to have enough structural support at protruding belly of bird
+4. Add a base to the box by extruding the same initial rectangle
+5. BooleanUnion
 
 To make the protruding keys:
-Make truncated cones
-Place & align on top of box
-Boolean Union
+1. Make truncated cones
+2. Place & align on top of box
+3. Boolean Union
 
 To make pour hole and vents:
-Make cylinder
-Trim in half with rectangular plane
-Position in place in box
-Trim excess
+1. Make cylinder
+2. Trim in half with rectangular plane
+3. Position in place in box
+4. Trim excess
+
+<img width="232" alt="Screen Shot 2022-11-11 at 1 52 28 AM" src="https://user-images.githubusercontent.com/115116582/201593510-a8dbda10-6739-4a0e-bc49-12e61d08dfd7.png">
+
+<img width="495" alt="Screen Shot 2022-11-11 at 1 38 04 AM" src="https://user-images.githubusercontent.com/115116582/201593520-1440e85c-4bf1-490b-917b-a86a7580c387.png">
+
 
 Next, I mirrored the entire box structure and aligned it to the other bird half. Since everything was aligned to the grid, it was easy to line up exactly for the other half.
 
 The difference here is that the keys had to be sunken holes instead of protruding. To make sunken keys:
 
-Rotate keys so that the large side is facing upwards
-Move downward until aligned underneath the surface 
-BooleanDifference
+1. Rotate keys so that the large side is facing upwards
+2. Move downward until aligned underneath the surface 
+3. BooleanDifference
+
+I also had to extend the base to compensate for the hole depth.
+
+<img width="493" alt="Screen Shot 2022-11-11 at 2 23 39 AM" src="https://user-images.githubusercontent.com/115116582/201593831-46cf6b9b-7516-4673-b3a0-f5689f235545.png">
+
+<img width="501" alt="Screen Shot 2022-11-11 at 2 16 59 AM" src="https://user-images.githubusercontent.com/115116582/201593877-0a19e7d5-21cb-4538-ae26-8836e4dfb0fa.png">
+
 
 Molds looked good, so I put them in Cura and printed them. I printed with low quality settings to speed up the print, since it was going to take ~9-10 hours. I didn’t mind a bit lower quality for this because I wanted to see the texture on the final product. 
 
-I let this print over night and woke up to some nice half birds.
+I let this print over night and woke up to some nice half birds!
 
-[images]
+![IMG_20221112_115740](https://user-images.githubusercontent.com/115116582/201593916-44da0078-2411-4170-9544-9d7a787256d3.jpg)
+
 
 It was now time to mix my Oomoo up. I gathered the supplies that I could find in my apartment; some plastic cups and disposable cutlery and chopsticks for mixing.
 
+![IMG_20221112_132609](https://user-images.githubusercontent.com/115116582/201593944-53689b62-e070-476b-8e7e-cb6285883fd3.jpg)
+
+
 I measured out the equal parts of the two components and mixed them together until it was uniform (~3-4 min).
 
-[images]
+![IMG_20221112_132816c](https://user-images.githubusercontent.com/115116582/201593969-82888b29-05a5-4082-b4c8-2e13f4aff05c.jpg)
+
+
 I slowly poured the Oomoo into the prints starting at a low point and letting it creep up on its own.
 
-[images]
+![IMG_20221112_133908](https://user-images.githubusercontent.com/115116582/201593998-7b03ac11-eaf0-449b-86c3-4bd43e36e415.jpg)
+
+
+![IMG_20221112_134101 copy](https://user-images.githubusercontent.com/115116582/201594004-5f53792a-df85-423f-ace6-7ea1e9e0d74f.jpg)
 
 6 hours later… It was time to release the molds! It was kind of hard to release these, they were really tight in the box! First, I separated all corners and sides with my fingers and actually used the scraper from my 3d printer to help pry them out. I was kind of scared I would damage them, but they came out just fine!
 
-However, as you can see the pour tube is kind of weird. Oomoo seemed to have seeped underneath the tube, between the cylinder and the rest of the mold. 
+![IMG_20221112_195731](https://user-images.githubusercontent.com/115116582/201594025-6741ede7-8d98-4854-85fd-da9a40e91a8a.jpg)
 
-I realized later that these cylinders weren’t sitting even and flat with the main bird part of the mold which was probably causing this problem. See the space between the half cylinder and the rest of the mold in red.
+![IMG_20221112_200245](https://user-images.githubusercontent.com/115116582/201594043-4006a2dc-1f09-4c13-9f34-c47729ecadfc.jpg)
 
-[images]
+![IMG_20221112_201917](https://user-images.githubusercontent.com/115116582/201594123-de10394b-5896-406a-a893-15820000e84a.jpg)
+
+However, as you can see the pour tube is kind of weird. Oomoo seemed to have seeped underneath the tube, between the cylinder and the rest of the mold.
+
+
+I realized later that these cylinders weren’t sitting even and flat with the main bird part of the mold which was probably causing this problem. See the space between the half cylinder and the rest of the mold in red below.
+
+![Screen Shot 2022-11-11 at 2 23 39 AM copy](https://user-images.githubusercontent.com/115116582/201594266-18279734-3ad1-4766-9276-e4dabc9934be.jpg)
+
 
 I ended up trimming off some of the extra flaps on the tube with scissors. It isn’t totally clean, but enough to pour stuff down, I think.
 
+
 The keys fit together perfectly, and everything was aligned!
 
-[images]
+![IMG_20221112_201204c](https://user-images.githubusercontent.com/115116582/201594324-4f4c3c93-43b0-460a-a502-453030e2133b.jpg)
 
+![IMG_20221112_201821 copy](https://user-images.githubusercontent.com/115116582/201594658-dff7ab54-4bc2-49ed-a19a-9e24abb4cf33.jpg)
 
+![IMG_20221112_201438](https://user-images.githubusercontent.com/115116582/201594401-124d6bb1-d127-4496-8b2d-e3014543d638.jpg)
+*testing structual integrity of deepest parts*
 
 
 
