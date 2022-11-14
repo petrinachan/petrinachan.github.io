@@ -259,7 +259,10 @@ The keys fit together perfectly, and everything was aligned!
 *testing structual integrity of deepest parts*
 
 ## Credits:
+
 Thigiverse user ibudmen for [Eames Bird model](https://www.thingiverse.com/thing:237419/makes)
+
+
 [Article on tree supports](https://all3dp.com/2/cura-tree-support/)
 
 
