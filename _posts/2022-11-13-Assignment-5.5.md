@@ -110,7 +110,7 @@ Print time was ~6 hours. It was quite interesting to watch the support structure
 When it came time to remove the supports, I ran into some trouble. I broke my print! I was so angry since it was 4am and took 6 hours to print. There was one part of the print that was enclosed in the “tree” and I didn’t realize that and snapped it while pulling the support off. It was in a weird position and couldn’t be easily fixed with glue. Next time, I will be cutting the supports to help get them off. The good thing is that this broken print came in handy. I used it as a reference to measure other pieces later when assembling the lamp. 
 
 ![IMG_20221111_034112](https://user-images.githubusercontent.com/115116582/201591845-b3a795c6-c52f-49e8-8115-0d75a1a66e5b.jpg)
-* ignore messy floor! *
+*:( Ignore messy floor! *
 
 
 So after print #2 finished, I took scissors and cutters to more carefully remove the supports, and luckily it did not break. Rinse and repeat with print #3 – This is when I decided to just reuse the same model rather than make a new one in a different orientation for the other fish on the light. (18 hour printing time total for these 3 fish @_@).
