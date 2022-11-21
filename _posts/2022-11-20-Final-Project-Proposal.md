@@ -82,7 +82,7 @@ I'm currently working on getting all the components made and defined in Rhino! W
 - Primer // Blick // Dec 2
 
 ## Steps / Timeline // Complete by date
-Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital.
+Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital. To be quite honest, I don't have much room for contingency plans. My project is realtively stripped down I feel like. This should be enough time to get everything made if I stick to it. In the case of any mishaps (things not fitting together, minor print issues), I will be able to troubleshoot and jerry rig on the fly (sanding parts for a fit, adding material for tigher fit). 
 
 - [x] Initial plan & sketches
 - [x] Create curves in Illustrator
