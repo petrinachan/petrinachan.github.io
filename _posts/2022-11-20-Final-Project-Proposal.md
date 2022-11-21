@@ -29,18 +29,18 @@ My plan is to make a candle holder shaped like a great blue heron. The project w
 5. Press fit parts
 6. Designing around stock parts
 
-Here is what I hope the final product will look like:
+Here is what I hope the final product will look like. I envision him sitting on a coffee table, shelf, or window ledge:
 
 ![proposal](https://user-images.githubusercontent.com/115116582/202976542-49edbd22-fdad-46dd-8816-068ccd84730e.jpg)
 
 ![3191616975_1_5_OPMEmAEh](https://user-images.githubusercontent.com/115116582/202976565-6d35a892-2792-43aa-ae82-512aafce92f7.jpeg)
-*Real heron for reference*
+*Real heron for reference. [Source](https://i.skyrock.net/2404/61082404/pics/3191616975_1_5_OPMEmAEh.jpg)*
 
-The main body would be made of laser cut frosted acrylic. The tufts of hair on the head would be 3D printed along with the wings. Both these printed components would be press fitted into the body via circular pegs into holes in the acrylic body. The two halves of the bird would just be mirrors of each other and joined by a similar press fit mechanic. While poking around online, I found [this post](https://makezine.com/article/digital-fabrication/3d-printing-workshop/tips-3d-printing-press-fit-parts/)from someone exploring press fit parts for round holes.
+The main body would be made of laser cut frosted acrylic. The tufts of hair on the head would be 3D printed along with the wings. Both these printed components would be press fitted into the body via circular pegs into holes in the acrylic body. The two halves of the bird would just be mirrors of each other and joined by a similar press fit mechanic. While poking around online, I found [this post] (https://makezine.com/article/digital-fabrication/3d-printing-workshop/tips-3d-printing-press-fit-parts/)from someone exploring press fit parts for round holes.
 
 <img width="622" alt="Screen Shot 2022-11-20 at 7 44 20 PM" src="https://user-images.githubusercontent.com/115116582/202976652-4c8cae1d-44da-491f-95e0-ec5cf79fec84.png">
 
-I am thinking of using the octagonal peg shape that they listed as their favorite.
+I am thinking of using the octagonal peg shape (bottom right) that they listed as their favorite.
 
 
 The platform the bird is standing on will be made of casted plaster material and potentially lightly painted to have a rock-like texture (depending on if I think it will look good when I see everything together). I will create a candle holder for the candle based on an existing candle (likely an LED tea light so that the heat doesn’t affect the acrylic?). It will be suspended by wire strung through the beak hole and the candle holder.
@@ -65,9 +65,9 @@ I'm currently working on getting all the components made and defined in Rhino! W
 <img width="823" alt="Screen Shot 2022-11-20 at 9 01 04 PM" src="https://user-images.githubusercontent.com/115116582/202976896-cdf4cc8f-1211-4379-9b66-165fa6491249.png">
 
 
-## List of materials needed | Source/Acquired
-- 1/4" thick 12x24" frosted acrylic sheets | Acquired
-- 11(?) gauge wire | Blick or Pacific Hardware
+## List of materials needed | Source/Acquired | Acquire by date
+- 3x 1/4" thick 12x24" frosted acrylic sheets | Acquired
+- 11(?) gauge wire | Blick or Pacific Hardware | Dec 4
 - Black PLA filament | Acquired
 - White PLA filament | Acquired
 - 3D printer | Acquired
@@ -76,8 +76,28 @@ I'm currently working on getting all the components made and defined in Rhino! W
 - Superglue | Acquired
 - Oomoo | Acquired
 - Perfect Cast | Acquired
-- LED candle | Borrow from home
-- Acrylic paint | Blick
+- LED candle | Borrow from home | Nov 29
+- Acrylic paint | Blick | Dec 2
 - Paint brushes | Acquired
-- Primer | Blick
+- Primer | Blick | Dec 2
+
+## Steps / Timeline | Complete by date
+Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital.
+
+- [x] Initial plan & sketches
+- [x] Create curves in Illustrator
+- [x] Mock up model in Rhino
+- [ ] Measure candle | Nov 25
+- [ ] Model wings and hair pieces | Nov 27
+- [ ] Make model for platform mold | Nov 27
+- [ ] Make model for dowel to attach halves | Nov 27
+- [ ] 3D print platform mold | Dec 2
+- [ ] 3D print wings and hair pieces | Dec 2
+- [ ] 3D print attachment dowel | Dec 2
+- [ ] Laser cut main body pieces | Dec 2 
+- [ ] 3D print candle holder | Dec 2
+- [ ] Cast platform | Dec 4
+- [ ] Paint platform and wings | Dec 4
+- [ ] Assemble | Dec 5
+
 
