@@ -17,8 +17,8 @@ image: proposal.jpg
 [3DM](assets/other/proposal/Heron.3dm)
 
 
-
-As I was thinking about this, I realized that I am going to be out of town for a whole week for Thanksgiving, which is a week when I will not be able to access machines or materials since I will be at home in Minnesota. My flight was booked a while ago, and I could not change it. Because of this, I am opting for a rather simple project that hopefully does not have a very lengthy physical fabrication process (e.g. laser cutting, 3d printing, assembly, etc). 
+## Concept 
+As I was thinking about this, I realized that I am going to be out of town for a whole week for Thanksgiving, which is a week when I will not be able to access machines or materials since I will be at home in Minnesota. My flight was booked a while ago, and I could not change it. Because of this, I am opting for a rather simple project that hopefully does not have a very lengthy physical fabrication process (e.g. laser cutting, 3d printing, assembly, etc). I will essentially have less than a week to physically make this project, so I don't have much room for error.
 
 
 My plan is to make a candle holder shaped like a great blue heron. The project will utilize:
