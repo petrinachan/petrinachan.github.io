@@ -19,9 +19,7 @@ image: assignment-6.jpg
 
 [Mold - Thingiverse model](https://www.thingiverse.com/thing:237419/makes)
 
-
-
-A6 - Molding and Casting P.2
+## Process
 
 Since I made my 3d prints and Oomoo molds last week, I thought I was ready to just cast my hydrostone and plaster. However, I don’t know what was going on and why my head was empty when designing these molds, because as I was preparing to cast, I realized that the pour hole and vents were in the wrong places and would not really work, since there would be air trapped at the top of the mold.
 
