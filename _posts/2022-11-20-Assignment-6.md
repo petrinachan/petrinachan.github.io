@@ -72,7 +72,7 @@ The only mishap that occurred was that the third bird pulled out one of the leg 
 *Mold stuck in leg hole*
 
 
-The rest of the birds all went smoothly. I let each of them cure for 45 minutes before de-molding and sanding them. I made one extra because they were fun! But now I don't know what I will do with 5 legless birds.
+The rest of the birds all went smoothly. I let each of them cure for 45 minutes before de-molding and sanding them. I made one extra because they were fun! But now I don't know what I will do with 5 legless birds. I also really like the grain type texture that is left from the mold! So I didn't sand to much to preserve those ridges.
 
 ![assignment-6](https://user-images.githubusercontent.com/115116582/202972590-5bc7f24b-f639-42c5-8121-baff6613bd95.jpg)
 ![IMG_20221118_214912](https://user-images.githubusercontent.com/115116582/202972622-cff452ae-cee8-41b7-9327-c3f988268856.jpg)
