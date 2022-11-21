@@ -65,39 +65,39 @@ I'm currently working on getting all the components made and defined in Rhino! W
 <img width="823" alt="Screen Shot 2022-11-20 at 9 01 04 PM" src="https://user-images.githubusercontent.com/115116582/202976896-cdf4cc8f-1211-4379-9b66-165fa6491249.png">
 
 
-## List of materials needed | Source/Acquired | Acquire by date
-- 3x 1/4" thick 12x24" frosted acrylic sheets | Acquired
-- 11(?) gauge wire | Blick or Pacific Hardware | Dec 4
-- Black PLA filament | Acquired
-- White PLA filament | Acquired
-- 3D printer | Acquired
-- Pliers | Acquired
-- Sandpaper (100, 200, 600 grit) | Acquired
-- Superglue | Acquired
-- Oomoo | Acquired
-- Perfect Cast | Acquired
-- LED candle | Borrow from home | Nov 29
-- Acrylic paint | Blick | Dec 2
-- Paint brushes | Acquired
-- Primer | Blick | Dec 2
+## List of materials needed | Source/Acquired // Acquire by date
+- 3x 1/4" thick 12x24" frosted acrylic sheets // Acquired
+- 11(?) gauge wire // Blick or Pacific Hardware // Dec 4
+- Black PLA filament // Acquired
+- White PLA filament // Acquired
+- 3D printer // Acquired
+- Pliers // Acquired
+- Sandpaper (100, 200, 600 grit) // Acquired
+- Superglue // Acquired
+- Oomoo // Acquired
+- Perfect Cast // Acquired
+- LED candle // Borrow from home // Nov 29
+- Acrylic paint // Blick // Dec 2
+- Paint brushes // Acquired
+- Primer // Blick // Dec 2
 
-## Steps / Timeline | Complete by date
+## Steps / Timeline // Complete by date
 Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital.
 
 - [x] Initial plan & sketches
 - [x] Create curves in Illustrator
 - [x] Mock up model in Rhino
-- [ ] Measure candle | Nov 25
-- [ ] Model wings and hair pieces | Nov 27
-- [ ] Make model for platform mold | Nov 27
-- [ ] Make model for dowel to attach halves | Nov 27
-- [ ] 3D print platform mold | Dec 2
-- [ ] 3D print wings and hair pieces | Dec 2
-- [ ] 3D print attachment dowel | Dec 2
-- [ ] Laser cut main body pieces | Dec 2 
-- [ ] 3D print candle holder | Dec 2
-- [ ] Cast platform | Dec 4
-- [ ] Paint platform and wings | Dec 4
-- [ ] Assemble | Dec 5
+- [ ] Measure candle // Nov 25
+- [ ] Model wings and hair pieces // Nov 27
+- [ ] Make model for platform mold // Nov 27
+- [ ] Make model for dowel to attach halves // Nov 27
+- [ ] 3D print platform mold // Dec 2
+- [ ] 3D print wings and hair pieces // Dec 2
+- [ ] 3D print attachment dowel // Dec 2
+- [ ] Laser cut main body pieces // Dec 2 
+- [ ] 3D print candle holder // Dec 2
+- [ ] Cast platform // Dec 4
+- [ ] Paint platform and wings // Dec 4
+- [ ] Assemble // Dec 5
 
 
