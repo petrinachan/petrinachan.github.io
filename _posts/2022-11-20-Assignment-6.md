@@ -69,10 +69,11 @@ Something that I also learned while using this mixture is that I prefer to make 
 The only mishap that occurred was that the third bird pulled out one of the leg hole mold pegs from the mold, so birds 4 and 5 only had one leg hole. I haven’t tried, but I think that I can glue toothpicks in the holes to make legs!
 
 ![IMG_20221118_174026](https://user-images.githubusercontent.com/115116582/202972286-cdcc8480-bf9d-45ca-a725-bf3d9860b57d.jpg)
+*Mold stuck in leg hole*
 
 
-The rest of the birds all went smoothly. I let each of them cure for 45 minutes before de-molding and sanding them. I made one extra because they were fun! But now ![IMG_20221118_214912](https://user-images.githubusercontent.com/115116582/202972542-00a3500c-2ca4-4e8c-a0f4-c5bad3a48d45.jpg)
-I don't know what I will do with 5 legless birds.
+The rest of the birds all went smoothly. I let each of them cure for 45 minutes before de-molding and sanding them. I made one extra because they were fun! But now I don't know what I will do with 5 legless birds.
+
 ![assignment-6](https://user-images.githubusercontent.com/115116582/202972590-5bc7f24b-f639-42c5-8121-baff6613bd95.jpg)
 ![IMG_20221118_214912](https://user-images.githubusercontent.com/115116582/202972622-cff452ae-cee8-41b7-9327-c3f988268856.jpg)
 *Plastic nest*
