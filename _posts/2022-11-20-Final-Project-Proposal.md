@@ -48,11 +48,10 @@ The platform the bird is standing on will be made of casted plaster material and
 Here are the sketches and plans:
 
 ![IMG_20221116_131556](https://user-images.githubusercontent.com/115116582/202976704-ac3c21d6-7cd4-46d3-90e7-419625271331.jpg)
-
 This was my initial pencil sketch of what I envisioned for the project
 
 
-<img width="512" alt="Screen Shot 2022-11-20 at 7 11 01 PM" src="https://user-images.githubusercontent.com/115116582/202977078-a6285f7b-9e7b-4641-af37-9bdeeec76d3a.png">
+<img width="615" alt="Screen Shot 2022-11-20 at 10 12 42 PM" src="https://user-images.githubusercontent.com/115116582/202978161-00042f52-d2ec-40b2-a638-5cda20de4a40.png">
 Next, I cleaned up the sketch in Photoshop. Blue lines indicate engravings or debossing in the 3D print.
 
 <img width="512" alt="Screen Shot 2022-11-20 at 7 11 01 PM" src="https://user-images.githubusercontent.com/115116582/202976828-206d9085-82df-4a3d-a2cc-d55442cb5668.png">
