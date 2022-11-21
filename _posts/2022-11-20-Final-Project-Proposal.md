@@ -4,7 +4,7 @@ title: "Final Project Proposal"
 author: "Petrina Chan"
 categories: assignments
 tags: [assignments]
-image: propsal.jpg
+image: proposal.jpg
 ---
 
 # Final Project Propsal
