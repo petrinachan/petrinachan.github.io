@@ -29,6 +29,8 @@ My plan is to make a candle holder shaped like a great blue heron. The project w
 5. Press fit parts
 6. Designing around stock parts
 
+### Context: I have a lot of random candles sitting around and I like birds
+
 Here is what I hope the final product will look like. I envision him sitting on a coffee table, shelf, or window ledge:
 
 ![proposal](https://user-images.githubusercontent.com/115116582/202976542-49edbd22-fdad-46dd-8816-068ccd84730e.jpg)
