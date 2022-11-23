@@ -102,4 +102,6 @@ Since I return to Seattle on Nov 29, I have to wait until then to do anything no
 - [ ] Paint platform and wings // Dec 4
 - [ ] Assemble // Dec 5
 
+Calendar view to come
+
 
