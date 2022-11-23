@@ -65,7 +65,7 @@ I'm currently working on getting all the components made and defined in Rhino! W
 <img width="823" alt="Screen Shot 2022-11-20 at 9 01 04 PM" src="https://user-images.githubusercontent.com/115116582/202976896-cdf4cc8f-1211-4379-9b66-165fa6491249.png">
 
 
-## List of materials needed | Source/Acquired // Acquire by date
+## List of materials needed: Source // Acquired // Acquire by date
 - 3x 1/4" thick 12x24" frosted acrylic sheets // Acquired
 - 11(?) gauge wire // Blick or Pacific Hardware // Dec 4
 - Black PLA filament // Acquired
@@ -81,12 +81,12 @@ I'm currently working on getting all the components made and defined in Rhino! W
 - Paint brushes // Acquired
 - Primer // Blick // Dec 2
 
-## Steps / Timeline // Complete by date // Contingency plan
+## Tasks & Timeline: Steps // Complete by date // Contingency plan
 Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital. To be quite honest, I don't have much room for contingency plans other than making parts with different methods. My project is realtively stripped down I feel like. This should be enough time to get everything made if I stick to it. In the case of any mishaps (things not fitting together, minor print issues), I will be able to troubleshoot and jerry rig on the fly (sanding parts for a fit, adding material for tigher fit). 
 
-- [x] Initial plan & sketches
-- [x] Create curves in Illustrator
-- [x] Mock up model in Rhino
+- [x] Initial plan & sketches // Done
+- [x] Create curves in Illustrator // Done
+- [x] Mock up model in Rhino // Done
 - [ ] Measure candle // Nov 25
 - [ ] Model wings and hair pieces // Nov 27
 - [ ] Make model for platform mold // Nov 27
