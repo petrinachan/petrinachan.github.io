@@ -81,8 +81,8 @@ I'm currently working on getting all the components made and defined in Rhino! W
 - Paint brushes // Acquired
 - Primer // Blick // Dec 2
 
-## Steps / Timeline // Complete by date
-Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital. To be quite honest, I don't have much room for contingency plans. My project is realtively stripped down I feel like. This should be enough time to get everything made if I stick to it. In the case of any mishaps (things not fitting together, minor print issues), I will be able to troubleshoot and jerry rig on the fly (sanding parts for a fit, adding material for tigher fit). 
+## Steps / Timeline // Complete by date // Contingency plan
+Since I return to Seattle on Nov 29, I have to wait until then to do anything non-digital. To be quite honest, I don't have much room for contingency plans other than making parts with different methods. My project is realtively stripped down I feel like. This should be enough time to get everything made if I stick to it. In the case of any mishaps (things not fitting together, minor print issues), I will be able to troubleshoot and jerry rig on the fly (sanding parts for a fit, adding material for tigher fit). 
 
 - [x] Initial plan & sketches
 - [x] Create curves in Illustrator
@@ -94,9 +94,9 @@ Since I return to Seattle on Nov 29, I have to wait until then to do anything no
 - [ ] 3D print platform mold // Dec 2
 - [ ] 3D print wings and hair pieces // Dec 2
 - [ ] 3D print attachment dowel // Dec 2
-- [ ] Laser cut main body pieces // Dec 2 
-- [ ] 3D print candle holder // Dec 2
-- [ ] Cast platform // Dec 4
+- [ ] Laser cut main body pieces // Dec 2 // If laser cutter out of commission: 3D print pieces (must be glued together)
+- [ ] 3D print candle holder // Dec 2 // Option to use stock candle holder
+- [ ] Cast platform // Dec 4 // If issues: can 3D print platform as well 
 - [ ] Paint platform and wings // Dec 4
 - [ ] Assemble // Dec 5
 
