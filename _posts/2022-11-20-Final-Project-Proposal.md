@@ -38,7 +38,7 @@ Here is what I hope the final product will look like. I envision him sitting on 
 ![3191616975_1_5_OPMEmAEh](https://user-images.githubusercontent.com/115116582/202976565-6d35a892-2792-43aa-ae82-512aafce92f7.jpeg)
 *Real heron for reference. [Source](https://i.skyrock.net/2404/61082404/pics/3191616975_1_5_OPMEmAEh.jpg)*
 
-The main body would be made of laser cut frosted acrylic. The tufts of hair on the head would be 3D printed along with the wings. Both these printed components would be press fitted into the body via circular pegs into holes in the acrylic body. The two halves of the bird would just be mirrors of each other and joined by a similar press fit mechanic. While poking around online, I found [this post] (https://makezine.com/article/digital-fabrication/3d-printing-workshop/tips-3d-printing-press-fit-parts/)from someone exploring press fit parts for round holes.
+The main body would be made of laser cut frosted acrylic. The tufts of hair on the head would be 3D printed along with the wings. Both these printed components would be press fitted into the body via circular pegs into holes in the acrylic body. The two halves of the bird would just be mirrors of each other and joined by a similar press fit mechanic. While poking around online, I found [this post](https://makezine.com/article/digital-fabrication/3d-printing-workshop/tips-3d-printing-press-fit-parts/)from someone exploring press fit parts for round holes.
 
 <img width="622" alt="Screen Shot 2022-11-20 at 7 44 20 PM" src="https://user-images.githubusercontent.com/115116582/202976652-4c8cae1d-44da-491f-95e0-ec5cf79fec84.png">
 
