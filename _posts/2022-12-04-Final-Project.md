@@ -51,7 +51,7 @@ Before printing anything, I had to model the parts in Rhino. As outlined in the 
 
 One change that I made from the initial plan was adding a second connecting peg. I thought this would add sturdiness to the structure, which it did. I planned everything out in 2D and then extruded the appropriate curves for the pieces. 
 
-**Wings:**
+**Wings**
 1. Extrude curve - 0.25”
 2. Extrude 3 decorative lines - 0.25”
 3. Position decorative lines half way through wing
@@ -69,7 +69,7 @@ One change that I made from the initial plan was adding a second connecting peg.
 <img width="948" alt="Screen Shot 2022-12-01 at 11 16 12 PMer" src="https://user-images.githubusercontent.com/115116582/205525043-4476654a-8c12-4f0a-9133-87c4abdb5543.png">
 
 
-**Tufts:**
+**Tufts**
 1. Extrude curve - 0.25”
 2. Create 1 octagon for peg based on diameter of outlined circles - 0.16”
 3. Extrude octagon peg - 0.3”
@@ -83,7 +83,7 @@ One change that I made from the initial plan was adding a second connecting peg.
 
 <img width="393" alt="Screen Shot 2022-12-02 at 12 48 00 AMe" src="https://user-images.githubusercontent.com/115116582/205525050-55846411-201c-4ca8-9110-18e948f8b147.png">
 
-**Connecting pegs:**
+**Connecting pegs**
 
 
 1. Create octagon for peg based on diameter of outlined circles - 0.5”
@@ -99,7 +99,7 @@ One change that I made from the initial plan was adding a second connecting peg.
 
 After printing, I noticed that the fit was just a little loose (printer printed about .02” too small), so I equally scaled the width and height to compensate for this tolerance noise. The final diameter is 0.52”.
 
-**Mold for platform:**
+**Mold for platform**
 
 
 1. Extrude existing platform curve - 0.25”
@@ -111,7 +111,7 @@ After printing, I noticed that the fit was just a little loose (printer printed 
 <img width="328" alt="Screen Shot 2022-12-02 at 12 48 39 AM" src="https://user-images.githubusercontent.com/115116582/205525144-72963b61-ad82-46d3-a67d-ece81ea5f602.png">
 
 
-**Candle holder:**
+**Candle holder**
 
 
 I found a candle holder on Thingiverse that I thought would work since it has holes in the body that I can string a wire through. I imported the file and scaled it to my candle dimensions (1.41” diameter, 0.67” high) plus a little wiggle room. 
