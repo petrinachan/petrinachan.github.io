@@ -30,7 +30,7 @@ The end result is fully collapsible into flat parts and easily taken down & put 
 ![compile 1](https://user-images.githubusercontent.com/115116582/205526119-bddc7473-812d-4860-82c0-7ad5f2bf1ed0.png)
 ![Combine 2](https://user-images.githubusercontent.com/115116582/205526126-ec34741b-0501-4f60-b627-3c2d5a9c951d.jpg)
 
-I don't currently have an amazing place to put it in my aparment, so for now he is addingn some mood lighting in my bathoom : )
+I don't currently have an amazing place to put it in my aparment, so for now he is adding some mood lighting in my bathoom : )
 
 ![IMG_20221202_220904](https://user-images.githubusercontent.com/115116582/205529457-289403f9-1b18-4348-9fc6-753b917517d3.jpg)
 
