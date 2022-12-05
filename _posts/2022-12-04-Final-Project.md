@@ -144,7 +144,11 @@ Since I modeled in inches in Rhino and there is no easy way to change Cura from 
 The whole printing process took about 2 full days (including overnights), which fit well within my initial plan estimates.
 
 **Wings**
+
+
 Duration: ~9 hours (ran overnight)
+
+
 Standard quality, turned ironing on. A little loose, so I just put a layer of tape over the pegs as an effective quick fix. 
 
 
@@ -152,7 +156,11 @@ Standard quality, turned ironing on. A little loose, so I just put a layer of ta
 
 
 **Tufts**
+
+
 Duration: ~50min
+
+
 Standard quality, turned ironing on.
 Printed twice because I accidentally broke the pegs off of the first print while playing around with them. Didn’t realize how fragile it is!
 
@@ -161,21 +169,33 @@ Printed twice because I accidentally broke the pegs off of the first print while
 
 
 **Connecting pegs**
+
+
 Duration: ~45mins
+
+
 Standard quality. Printed twice after increasing size to account for tolerance noise.
 
 ![IMG_20221130_225700](https://user-images.githubusercontent.com/115116582/205525268-312e6cc7-2c59-4951-ac49-8d3552cb634b.jpg)
 
 
 **Candle holder**
+
+
 Duration: ~2 hours
+
+
 Standard quality, turned ironing on. No issues.
 
 ![IMG_20221204_140113](https://user-images.githubusercontent.com/115116582/205525254-9a4d72e3-ba79-4eba-917c-05470e8da576.jpg)
 
 
 **Platform mold**
+
+
 Duration: ~11hr (ran overnight).
+
+
 Low quality, infill 10%. No issues. 
 
 
