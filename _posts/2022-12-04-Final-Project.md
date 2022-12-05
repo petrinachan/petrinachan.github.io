@@ -226,7 +226,7 @@ Since it was pretty cold out (30 degrees), and it would have been a paint to set
 ![IMG_20221201_135210](https://user-images.githubusercontent.com/115116582/205525943-76648c02-fcd2-414d-9f11-2a13abf6e7ae.jpg)
 
 
-I did several coats on each of the wings and tufts. There were some lumps and bumps because I didn't have a great way to keep everything level while it was drying and I might have put on multiple coats too quickly, but overall it lookedpretty good.
+I did several coats on each of the wings and tufts. There were some lumps and bumps because I didn't have a great way to keep everything level while it was drying and I might have put on multiple coats too quickly, but overall it looked pretty good.
 
 ![IMG_20221204_135752](https://user-images.githubusercontent.com/115116582/205526041-5706a6f8-90f9-4734-b1f4-e6336ddbe796.jpg)
 
@@ -247,4 +247,6 @@ Ideally, I would want the wire to be a little bit straighter with less waves and
 
 ## Credits:
 Kasturi, Jessica Douma, and Emily Rowland for help with laser cutter settings on Slack
+
+
 [ErikHK on Thingiverse for candle holder model](https://www.thingiverse.com/thing:277712)
