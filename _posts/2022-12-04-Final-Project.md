@@ -31,6 +31,13 @@ The end result is fully collapsible into flat parts and easily taken down & put 
 ![Combine 2](https://user-images.githubusercontent.com/115116582/205526126-ec34741b-0501-4f60-b627-3c2d5a9c951d.jpg)
 
 
+## Bill of Materials
+
+[Download Excel file here](assets/other/final/Final BOM.xlsx)
+
+<img width="476" alt="Screen Shot 2022-12-04 at 5 10 38 PM" src="https://user-images.githubusercontent.com/115116582/205528393-93bb69c4-a9c2-4157-8ea1-c8afb63935d6.png">
+
+
 ## Process
 I managed to stay a day or two ahead of schedule throughout the process, which was great! I did not have to fall back on any contingency plans, and was able to basically make the product that I intended to from the start. The process is broken up into key tasks below in the approximate order they were done in.
 
@@ -189,6 +196,9 @@ The circle came out great with no issues, so I went on to cut the real pieces.
 
 **The real deal**
 I loaded up my files and printed with the same settings that I used for the test prints and they came out near perfectly. 
+
+<img width="590" alt="Screen Shot 2022-12-04 at 5 14 30 PM" src="https://user-images.githubusercontent.com/115116582/205528589-fb9a4e87-8700-4e8b-8556-1f8b2f67baec.png">
+*File in Illustrator*
 
 ![IMG_20221130_170906](https://user-images.githubusercontent.com/115116582/205525531-449dbf5b-72f6-4a90-9898-00fa490f949f.jpg)
  
