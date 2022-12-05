@@ -11,8 +11,14 @@ image: final.jpg
 
 ## Files
 [Master 3DM file with all 3D parts](assets/other/final/Heron Components.3dm)
+
+
 [Illustrator file for laser cutting (side 1)](assets/other/final/HeronSide1.ai)
+
+
 [Illustrator file for laser cutting (side 2)](assets/other/final/HeronSide2.ai)
+
+
 [Candle holder from Thingiverse](https://www.thingiverse.com/thing:277712)
 
 ### Great Blue Heron Candleholder! 
