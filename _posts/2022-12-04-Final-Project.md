@@ -48,6 +48,8 @@ Before printing anything, I had to model the parts in Rhino. As outlined in the 
 4. Mold for platform
 5. Candle holder
 
+<img width="735" alt="Screen Shot 2022-12-04 at 3 56 55 PM" src="https://user-images.githubusercontent.com/115116582/205526711-439085f9-09da-4b4b-b32d-a0760f68ce21.png">
+
 
 One change that I made from the initial plan was adding a second connecting peg. I thought this would add sturdiness to the structure, which it did. I planned everything out in 2D and then extruded the appropriate curves for the pieces. 
 
