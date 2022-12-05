@@ -30,6 +30,10 @@ The end result is fully collapsible into flat parts and easily taken down & put 
 ![compile 1](https://user-images.githubusercontent.com/115116582/205526119-bddc7473-812d-4860-82c0-7ad5f2bf1ed0.png)
 ![Combine 2](https://user-images.githubusercontent.com/115116582/205526126-ec34741b-0501-4f60-b627-3c2d5a9c951d.jpg)
 
+I don't currently have an amazing place to put it in my aparment, so for now he is addingn some mood lighting in my bathoom : )
+
+![IMG_20221202_220904](https://user-images.githubusercontent.com/115116582/205529457-289403f9-1b18-4348-9fc6-753b917517d3.jpg)
+
 
 ## Bill of Materials
 
@@ -39,10 +43,15 @@ The end result is fully collapsible into flat parts and easily taken down & put 
 
 
 ## Process
-I managed to stay a day or two ahead of schedule throughout the process, which was great! I did not have to fall back on any contingency plans, and was able to basically make the product that I intended to from the start. The process is broken up into key tasks below in the approximate order they were done in.
+I managed to stay a day or two ahead of schedule throughout the process, which was great! I did not have to fall back on any contingency plans, and was able to basically make the product that I intended to from the start. 
 
-Approximate timeline in calendar form
+![comparison](https://user-images.githubusercontent.com/115116582/205529780-7279a046-f1c9-4667-a10b-2c0a5187753d.jpg)
+*Mock up from propsal vs. final product*
+
+Approximate project timeline in calendar form:
 <img width="829" alt="Calendar copy" src="https://user-images.githubusercontent.com/115116582/205525002-1858a9a2-b96a-4070-a0ce-2d91b64baf59.png">
+
+The process below is broken up into key tasks below in the approximate order they were done in.
 
 
 ### Modeling in Rhino 
